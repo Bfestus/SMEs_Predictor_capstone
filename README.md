@@ -24,6 +24,18 @@ This capstone project develops a machine learning system to predict the success 
 - **Risk assessment** with actionable recommendations
 - **Interactive API** for real-world deployment
 
+### ⚠️ **Important Data Disclaimer**
+**The dataset used in this project is synthetic/simulated data created for academic demonstration purposes.** This project was developed while awaiting access to real SME data from the Rwanda Revenue Authority (RRA). The synthetic dataset was carefully designed to reflect realistic SME characteristics and business patterns in Rwanda to ensure the methodology and technical implementation are sound for when real data becomes available.
+
+### 📊 **Data Source Status**
+- **Current Dataset**: Synthetic data (1,000 SME records) designed for academic purposes
+- **Real Data Request**: Pending approval from Rwanda Revenue Authority (RRA)
+- **Request Status**: Submitted and under review (see screenshot below)
+- **Future Implementation**: Ready to integrate real RRA data when approved
+
+![RRA Data Request Status](docs/images/rra_data_request_status.png)
+*Screenshot of pending RRA data request status*
+
 ### 🎓 Academic Context
 This project fulfills the requirements for "Initial software product/solution demonstration" with focus on:
 - Data visualization and data engineering
@@ -64,7 +76,7 @@ SMEs_Predictor_capstone/
 ├── 📓 notebooks/
 │   └── SME_Success_Predictor_ML_Pipeline.ipynb  # Complete ML pipeline
 ├── 🗃️ data/
-│   └── Rwanda_SME_SmallCapital.csv              # Dataset (1,000 SME records)
+│   └── Rwanda_SME_SmallCapital.csv              # Synthetic dataset (1,000 SME records)
 ├── 🤖 models/
 │   ├── best_model_logistic_regression.pkl      # Best trained model
 │   ├── random_forest_optimized.pkl             # Random Forest model
@@ -76,6 +88,9 @@ SMEs_Predictor_capstone/
 │   └── README.md                               # API documentation
 ├── 📊 visualizations/
 │   └── [Generated during notebook execution]    # EDA charts and plots
+├── 📁 docs/
+│   └── images/
+│       └── rra_data_request_status.png         # RRA data request screenshot
 ├── 📄 README.md                                # This file
 └── 📋 requirements.txt                         # Project dependencies
 ```
@@ -178,15 +193,15 @@ curl -X POST "http://localhost:5000/api/v1/predictions/single" \
 
 ### 📈 Data Processing
 1. **Data Loading & Inspection**
-   - 1,000 SME records with 15 features
+   - 1,000 synthetic SME records with 15 features (designed to reflect real Rwanda SME patterns)
    - Comprehensive data quality assessment
    - Missing value and duplicate analysis
 
 2. **Exploratory Data Analysis**
-   - Business sector distribution analysis
+   - Business sector distribution analysis (based on Rwanda economic sectors)
    - Capital and employment size patterns
    - Owner demographics and education impact
-   - Geographic distribution across Rwanda
+   - Geographic distribution across Rwanda provinces
    - Correlation analysis between features
 
 3. **Feature Engineering**
@@ -200,6 +215,13 @@ curl -X POST "http://localhost:5000/api/v1/predictions/single" \
    - Label encoding for categorical variables
    - Standard scaling for numerical features
    - Train-test split with stratification (80/20)
+
+### 🔮 **Future Data Integration**
+The ML pipeline is designed to seamlessly integrate real RRA data when approved:
+- **Flexible data schema** compatible with expected RRA data structure
+- **Automated data validation** and preprocessing pipelines
+- **Model retraining capabilities** for real data integration
+- **Performance comparison** framework for synthetic vs. real data results
 
 ### 🤖 Model Development
 Each algorithm receives individual treatment with optimized hyperparameters:
@@ -306,11 +328,18 @@ API health check endpoint.
 - **Business age** correlates with stability and success
 
 ### 🎯 Business Value
-- **85% accuracy target** nearly achieved (84.5%)
-- **Data-driven decision making** for entrepreneurs and investors
-- **Risk assessment** enables proactive intervention
-- **Policy insights** for SME development in Rwanda
-- **Scalable solution** ready for real-world deployment
+- **85% accuracy target** nearly achieved (84.5%) using synthetic data
+- **Data-driven decision making** framework for entrepreneurs and investors
+- **Risk assessment** enables proactive intervention strategies
+- **Policy insights** framework ready for real Rwanda SME data analysis
+- **Scalable solution** ready for production deployment with real data
+- **Academic demonstration** of complete ML methodology while awaiting real data approval
+
+### 📋 **Data Limitations & Mitigation**
+- **Synthetic Data**: Current results based on carefully designed synthetic data
+- **Real Data Integration**: System architecture ready for seamless real data integration
+- **Validation Framework**: Performance metrics will be recalibrated with actual RRA data
+- **Methodology Soundness**: Technical approach validated and ready for real-world application
 
 ## ✅ Academic Requirements
 
