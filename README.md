@@ -427,3 +427,5 @@ python app.py
 **🎯 Project Status: COMPLETE & DEPLOYMENT-READY**
 
 This SME Success Predictor represents a full-stack machine learning solution, from data exploration to production deployment, addressing real-world challenges in the Rwanda SME ecosystem with academic rigor and practical applicability.
+
+### by Festus Bigirimana Student at ALU
