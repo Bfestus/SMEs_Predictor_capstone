@@ -1,0 +1,1001 @@
+Business_Sector,Business_Subsector,Business_Model,Ownership_Type,Registration_Year,Duration_Operation,Business_Age,Initial_Capital,Num_Employees,Location,Owner_Age,Owner_Gender,Business_Type,Growth_Indicator,Business_Status
+Energy & Utilities,"Electricity (hydropower, solar, methane gas, peat, biomass)",Hybrid,Sole Proprietorship,2013,12,12,5052907,16,Rwamagana,30,Male,SME,0.12,Operating
+"Agriculture, Forestry & Fishing",Fishing & aquaculture,Product-based,Limited Company,2011,14,14,3554836,2,Rusizi,47,Male,SME,0.49,Operating
+Construction & Real Estate,Road construction & maintenance,Hybrid,Cooperative,2014,11,11,11800253,42,Rwamagana,39,Male,SME,0.18,Operating
+Hospitality & Tourism,Travel agencies & tour operators,Hybrid,Limited Company,2024,1,1,1615226,5,Rubavu,32,Female,Startup,-0.15,Operating
+Mining & Quarrying,"Quarrying (stone, sand, gravel)",Hybrid,Partnership,2007,18,18,6707519,39,Rubavu,46,Female,Micro-enterprise,0.05,Closed
+Energy & Utilities,Renewable energy technologies,Product-based,Limited Company,2003,22,22,13337281,47,Kigali,60,Male,Micro-enterprise,0.22,Operating
+Information & Communication Technology (ICT),"Software development, IT services & startups",Service-based,Partnership,2013,12,0,1154718,35,Rwamagana,58,Female,Micro-enterprise,0.03,Operating
+Hospitality & Tourism,Conference & events (MICE industry),Product-based,Limited Company,2000,25,0,3529235,18,Rubavu,51,Male,Startup,0.07,Operating
+Information & Communication Technology (ICT),Data centers & cloud services,Hybrid,Limited Company,2000,25,25,9671040,43,Huye,34,Male,Micro-enterprise,0.26,Operating
+Hospitality & Tourism,Cultural & eco-tourism services,Hybrid,Sole Proprietorship,2007,18,18,5975539,29,Rubavu,32,Female,Startup,0.45,Closed
+Wholesale & Retail Trade,E-commerce & distribution,Service-based,Cooperative,2025,0,0,2461738,31,Nyagatare,43,Female,SME,-0.01,Operating
+Financial & Insurance Services,"Capital markets, investment funds",Hybrid,Partnership,2004,21,21,804147,4,Kigali,54,Male,SME,0.04,Closed
+Mining & Quarrying,Gold,Product-based,Partnership,2002,23,23,4701403,29,Rusizi,53,Male,Micro-enterprise,0.15,Operating
+"Arts, Entertainment & Recreation",Gaming & leisure activities,Hybrid,Sole Proprietorship,2010,15,15,8963437,15,Huye,31,Male,Startup,-0.13,Closed
+Professional & Business Services,Management consulting & advisory,Product-based,Sole Proprietorship,2020,5,5,995991,2,Rusizi,45,Female,SME,-0.03,Operating
+Professional & Business Services,"Legal, auditing & accounting firms",Hybrid,Cooperative,2016,9,9,2951159,33,Huye,19,Male,Micro-enterprise,0.28,Closed
+"Arts, Entertainment & Recreation",Sports clubs & fitness centers,Service-based,Cooperative,2011,14,14,1271257,49,Rubavu,37,Female,Micro-enterprise,-0.17,Operating
+Financial & Insurance Services,Banking (commercial & microfinance),Service-based,Cooperative,2019,6,6,7017885,25,Rwamagana,29,Female,Startup,-0.03,Operating
+Hospitality & Tourism,Cultural & eco-tourism services,Hybrid,Partnership,2013,12,12,528428,2,Rusizi,58,Male,SME,0.03,Closed
+Information & Communication Technology (ICT),"Telecommunications (MTN, Airtel, broadband providers)",Hybrid,Sole Proprietorship,2006,19,19,3174033,20,Nyagatare,59,Female,Startup,0.47,Operating
+Professional & Business Services,"Advertising, media & marketing",Hybrid,Sole Proprietorship,2018,7,7,2075529,7,Rusizi,40,Female,Micro-enterprise,-0.03,Closed
+"Arts, Entertainment & Recreation",Sports clubs & fitness centers,Product-based,Limited Company,2022,3,3,2438862,27,Huye,58,Male,Startup,0.08,Operating
+Hospitality & Tourism,Conference & events (MICE industry),Hybrid,Partnership,2024,1,1,7157606,43,Rwamagana,46,Female,Startup,-0.15,Operating
+"Agriculture, Forestry & Fishing",Fishing & aquaculture,Product-based,Sole Proprietorship,2017,8,8,1093883,27,Huye,42,Female,SME,-0.15,Operating
+Information & Communication Technology (ICT),"Telecommunications (MTN, Airtel, broadband providers)",Hybrid,Sole Proprietorship,2014,11,11,5739862,14,Huye,21,Female,Micro-enterprise,-0.05,Closed
+Public Administration & Defense,Government services,Service-based,Sole Proprietorship,2013,12,12,8050384,42,Rusizi,44,Female,Micro-enterprise,0.21,Operating
+Public Administration & Defense,Government services,Service-based,Cooperative,2009,16,16,3163978,42,Musanze,57,Female,Startup,0.01,Operating
+Hospitality & Tourism,"Hotels, lodges, restaurants, cafés",Service-based,Sole Proprietorship,2002,23,23,6285409,12,Rubavu,21,Female,SME,0.46,Operating
+Mining & Quarrying,"Quarrying (stone, sand, gravel)",Service-based,Cooperative,2007,18,18,9582374,20,Huye,41,Female,Startup,0.13,Operating
+Information & Communication Technology (ICT),"Telecommunications (MTN, Airtel, broadband providers)",Hybrid,Limited Company,2010,15,15,1420501,31,Rwamagana,52,Male,Startup,0.33,Operating
+Wholesale & Retail Trade,E-commerce & distribution,Hybrid,Cooperative,2016,9,9,992449,43,Musanze,54,Female,Micro-enterprise,0.09,Operating
+Nonprofit & Community Organizations,Religious organizations,Product-based,Partnership,2007,18,18,4397512,20,Kigali,54,Male,SME,-0.14,Operating
+Hospitality & Tourism,Conference & events (MICE industry),Product-based,Sole Proprietorship,2000,25,25,393512,26,Kigali,60,Male,SME,0.2,Operating
+Health & Social Work,NGOs & community health services,Service-based,Limited Company,2019,6,6,5029968,30,Rusizi,42,Female,Micro-enterprise,0.05,Operating
+Energy & Utilities,Water supply & waste management,Hybrid,Partnership,2025,0,0,3674483,12,Rusizi,32,Female,SME,-0.15,Operating
+Education & Training,Universities & research centers,Service-based,Cooperative,2022,3,3,2528587,16,Rwamagana,32,Female,Startup,0.04,Operating
+Nonprofit & Community Organizations,Charities & associations,Hybrid,Sole Proprietorship,2006,19,19,6800283,43,Rwamagana,33,Male,SME,0.27,Operating
+Education & Training,EdTech platforms,Service-based,Limited Company,2014,11,11,2375193,25,Rubavu,56,Female,Micro-enterprise,-0.07,Operating
+"Arts, Entertainment & Recreation",Media & film industry,Service-based,Sole Proprietorship,2004,21,21,2035311,33,Musanze,34,Female,SME,0.13,Operating
+Mining & Quarrying,Gold,Product-based,Partnership,2023,2,2,12427161,41,Rubavu,44,Female,SME,0.37,Operating
+Energy & Utilities,"Electricity (hydropower, solar, methane gas, peat, biomass)",Product-based,Cooperative,2010,15,15,15260596,35,Rusizi,39,Female,Startup,0.29,Closed
+Construction & Real Estate,Road construction & maintenance,Product-based,Limited Company,2004,21,21,8112152,2,Nyagatare,19,Male,Micro-enterprise,0.37,Operating
+Education & Training,EdTech platforms,Product-based,Cooperative,2025,0,0,1111836,7,Huye,47,Female,Startup,0.28,Operating
+Financial & Insurance Services,"Insurance (life, health, property, vehicle)",Product-based,Cooperative,2004,21,21,1770210,49,Musanze,26,Female,SME,-0.11,Closed
+Health & Social Work,"Hospitals, clinics, pharmacies",Product-based,Sole Proprietorship,2003,22,22,7146226,7,Kigali,29,Male,SME,0.18,Closed
+Transport & Logistics,"Road transport (bus, taxi, moto, trucks)",Hybrid,Partnership,2008,17,0,4598676,10,Kigali,32,Male,Micro-enterprise,-0.09,Operating
+"Arts, Entertainment & Recreation",Media & film industry,Product-based,Limited Company,2002,23,0,6579031,19,Rwamagana,46,Female,SME,0.4,Operating
+Education & Training,Universities & research centers,Product-based,Sole Proprietorship,2010,15,15,3676523,12,Musanze,36,Female,Startup,0.14,Closed
+Nonprofit & Community Organizations,NGOs & cooperatives,Hybrid,Partnership,2012,13,13,378933,5,Rwamagana,42,Female,Micro-enterprise,0.38,Closed
+Construction & Real Estate,"Architecture, engineering & technical services",Service-based,Partnership,2016,9,9,16978238,16,Rwamagana,32,Male,Startup,-0.05,Operating
+Mining & Quarrying,"Tin, tungsten, tantalum (3Ts)",Hybrid,Sole Proprietorship,2013,12,12,19577001,23,Huye,35,Female,Startup,0.02,Operating
+Education & Training,Vocational & technical training (TVET),Product-based,Sole Proprietorship,2020,5,5,2740223,31,Kigali,36,Female,SME,0.18,Operating
+Health & Social Work,"Hospitals, clinics, pharmacies",Service-based,Sole Proprietorship,2010,15,15,5460434,41,Huye,52,Male,Micro-enterprise,0.29,Operating
+Nonprofit & Community Organizations,Religious organizations,Product-based,Partnership,2000,25,25,1866628,41,Musanze,52,Female,Micro-enterprise,0.18,Closed
+"Arts, Entertainment & Recreation","Music, events & performing arts",Product-based,Partnership,2021,4,4,843396,16,Rusizi,60,Male,SME,-0.08,Closed
+Public Administration & Defense,Government services,Service-based,Partnership,2012,13,13,3053342,3,Kigali,37,Female,Startup,0.14,Operating
+Health & Social Work,NGOs & community health services,Hybrid,Cooperative,2007,18,18,248790,46,Musanze,44,Male,Micro-enterprise,0.35,Operating
+Mining & Quarrying,Gold,Product-based,Sole Proprietorship,2003,22,22,14895344,5,Rubavu,56,Male,SME,0.29,Closed
+Manufacturing,"Chemicals, plastics, rubber, paints",Product-based,Partnership,2021,4,4,16200100,18,Rusizi,46,Female,Startup,-0.14,Operating
+Energy & Utilities,Water supply & waste management,Product-based,Cooperative,2014,11,11,14110767,19,Musanze,40,Male,SME,0.13,Operating
+"Arts, Entertainment & Recreation",Media & film industry,Service-based,Limited Company,2008,17,17,2750211,16,Musanze,49,Female,SME,0.09,Operating
+Financial & Insurance Services,Banking (commercial & microfinance),Product-based,Sole Proprietorship,2018,7,0,9770817,14,Musanze,60,Male,Startup,0.19,Closed
+Hospitality & Tourism,"Hotels, lodges, restaurants, cafés",Product-based,Limited Company,2016,9,9,4638233,43,Huye,41,Male,SME,-0.15,Operating
+Mining & Quarrying,Gold,Hybrid,Partnership,2006,19,19,18557189,18,Rusizi,53,Female,Micro-enterprise,-0.18,Operating
+Energy & Utilities,"Electricity (hydropower, solar, methane gas, peat, biomass)",Product-based,Limited Company,2015,10,0,14301905,18,Nyagatare,22,Female,Startup,0.08,Operating
+Financial & Insurance Services,Savings & credit cooperatives (SACCOs),Product-based,Sole Proprietorship,2025,0,0,8413701,25,Musanze,31,Male,SME,0.1,Operating
+Professional & Business Services,"Legal, auditing & accounting firms",Service-based,Partnership,2011,14,14,9989328,7,Rubavu,29,Female,Startup,0.03,Operating
+Mining & Quarrying,"Quarrying (stone, sand, gravel)",Hybrid,Cooperative,2009,16,16,19028525,36,Rubavu,62,Female,Micro-enterprise,0.43,Operating
+Nonprofit & Community Organizations,NGOs & cooperatives,Hybrid,Partnership,2011,14,14,3852623,36,Rusizi,61,Female,SME,0.05,Closed
+"Agriculture, Forestry & Fishing",Fishing & aquaculture,Hybrid,Cooperative,2024,1,1,3540651,28,Nyagatare,36,Female,Micro-enterprise,0.18,Operating
+Health & Social Work,"Hospitals, clinics, pharmacies",Hybrid,Sole Proprietorship,2024,1,1,9358182,18,Kigali,60,Male,Micro-enterprise,0.44,Operating
+"Agriculture, Forestry & Fishing","Forestry (timber, charcoal, firewood, reforestation)",Product-based,Limited Company,2002,23,23,855445,27,Rubavu,59,Male,Startup,-0.04,Closed
+Health & Social Work,NGOs & community health services,Hybrid,Limited Company,2011,14,14,1961459,6,Musanze,35,Female,Startup,0.4,Operating
+Transport & Logistics,Rail (future projects),Service-based,Sole Proprietorship,2008,17,17,6348588,11,Huye,53,Female,Micro-enterprise,-0.19,Closed
+Nonprofit & Community Organizations,Charities & associations,Hybrid,Cooperative,2008,17,17,7052786,37,Musanze,27,Male,SME,0.05,Closed
+Health & Social Work,NGOs & community health services,Service-based,Cooperative,2015,10,10,7466577,18,Rubavu,40,Male,Micro-enterprise,0.37,Operating
+Public Administration & Defense,Security & defense institutions,Hybrid,Cooperative,2008,17,0,7779552,47,Rubavu,58,Male,SME,0.09,Operating
+Health & Social Work,"Hospitals, clinics, pharmacies",Hybrid,Limited Company,2007,18,18,9322876,3,Nyagatare,43,Female,SME,0.13,Operating
+Professional & Business Services,Management consulting & advisory,Service-based,Sole Proprietorship,2022,3,3,2761147,35,Rubavu,30,Male,Micro-enterprise,-0.04,Operating
+Energy & Utilities,Water supply & waste management,Hybrid,Cooperative,2008,17,17,15758075,11,Huye,28,Male,Startup,0.38,Operating
+Manufacturing,"Food & beverages processing (dairy, breweries, bakeries, milling)",Service-based,Limited Company,2014,11,11,13877350,34,Kigali,54,Female,SME,0.31,Operating
+Mining & Quarrying,"Tin, tungsten, tantalum (3Ts)",Hybrid,Partnership,2025,0,0,7822634,10,Rwamagana,52,Female,SME,-0.03,Operating
+Financial & Insurance Services,"Capital markets, investment funds",Product-based,Cooperative,2024,1,1,4068522,46,Huye,30,Female,SME,0.5,Closed
+Wholesale & Retail Trade,E-commerce & distribution,Hybrid,Cooperative,2006,19,19,1424362,28,Rwamagana,41,Male,Micro-enterprise,0.04,Closed
+"Agriculture, Forestry & Fishing","Forestry (timber, charcoal, firewood, reforestation)",Service-based,Partnership,2022,3,3,1798503,13,Rusizi,38,Female,Startup,-0.17,Operating
+Public Administration & Defense,Security & defense institutions,Product-based,Partnership,2000,25,25,6208802,12,Rubavu,39,Male,SME,0.17,Operating
+Education & Training,EdTech platforms,Product-based,Partnership,2024,1,1,1016770,20,Huye,19,Female,Micro-enterprise,-0.04,Closed
+"Arts, Entertainment & Recreation","Music, events & performing arts",Hybrid,Limited Company,2008,17,17,8872887,14,Rwamagana,49,Male,SME,0.3,Operating
+Health & Social Work,"Hospitals, clinics, pharmacies",Hybrid,Partnership,2009,16,0,6587118,8,Musanze,35,Male,SME,-0.07,Closed
+Manufacturing,Pharmaceutical & medical products,Service-based,Sole Proprietorship,2007,18,18,12312399,23,Musanze,35,Female,SME,0.42,Operating
+"Arts, Entertainment & Recreation","Music, events & performing arts",Product-based,Limited Company,2024,1,1,5524093,2,Kigali,28,Female,Micro-enterprise,-0.18,Operating
+Financial & Insurance Services,"Insurance (life, health, property, vehicle)",Service-based,Limited Company,2009,16,16,2174076,34,Huye,60,Female,Startup,0.04,Operating
+Manufacturing,"Food & beverages processing (dairy, breweries, bakeries, milling)",Hybrid,Limited Company,2024,1,1,2459125,41,Musanze,23,Female,Micro-enterprise,0.44,Closed
+Mining & Quarrying,"Quarrying (stone, sand, gravel)",Service-based,Cooperative,2011,14,14,18875276,21,Huye,55,Female,Micro-enterprise,-0.08,Operating
+"Agriculture, Forestry & Fishing","Forestry (timber, charcoal, firewood, reforestation)",Service-based,Cooperative,2021,4,4,4403629,4,Huye,30,Female,Startup,0.4,Operating
+Nonprofit & Community Organizations,NGOs & cooperatives,Service-based,Partnership,2011,14,14,8724588,13,Musanze,52,Male,Startup,0.13,Operating
+Wholesale & Retail Trade,E-commerce & distribution,Service-based,Sole Proprietorship,2003,22,22,1328161,7,Rwamagana,20,Male,SME,0.19,Operating
+Wholesale & Retail Trade,Motor vehicle & motorcycle trade,Hybrid,Sole Proprietorship,2025,0,0,1694884,13,Musanze,64,Female,Startup,0.48,Operating
+Professional & Business Services,"Advertising, media & marketing",Hybrid,Cooperative,2022,3,3,9402992,40,Nyagatare,49,Female,Micro-enterprise,0.2,Operating
+Hospitality & Tourism,"Hotels, lodges, restaurants, cafés",Service-based,Partnership,2007,18,18,4719575,29,Kigali,22,Male,Startup,0.32,Operating
+Manufacturing,Paper & printing,Product-based,Limited Company,2005,20,20,18337215,38,Rusizi,31,Male,SME,0.4,Operating
+Information & Communication Technology (ICT),"FinTech (mobile money, digital banking solutions)",Hybrid,Cooperative,2024,1,1,4740155,48,Huye,21,Female,Startup,0.4,Operating
+Wholesale & Retail Trade,Motor vehicle & motorcycle trade,Hybrid,Limited Company,2012,13,13,253954,18,Rubavu,34,Female,Startup,0.32,Closed
+Wholesale & Retail Trade,Motor vehicle & motorcycle trade,Product-based,Limited Company,2012,13,13,691728,25,Huye,39,Female,SME,0.02,Operating
+"Agriculture, Forestry & Fishing",Fishing & aquaculture,Service-based,Partnership,2013,12,0,4887957,48,Nyagatare,30,Male,Micro-enterprise,0.45,Operating
+"Agriculture, Forestry & Fishing",Fishing & aquaculture,Hybrid,Cooperative,2025,0,0,4415892,7,Musanze,37,Female,SME,0.3,Operating
+Information & Communication Technology (ICT),"FinTech (mobile money, digital banking solutions)",Service-based,Partnership,2011,14,14,2365554,10,Kigali,41,Male,Startup,0.17,Operating
+Energy & Utilities,Water supply & waste management,Service-based,Partnership,2025,0,0,13870734,9,Rusizi,51,Male,SME,0.16,Operating
+Mining & Quarrying,"Tin, tungsten, tantalum (3Ts)",Product-based,Cooperative,2016,9,9,5548395,12,Huye,27,Female,Micro-enterprise,0.34,Closed
+Mining & Quarrying,"Tin, tungsten, tantalum (3Ts)",Hybrid,Sole Proprietorship,2002,23,23,19345033,34,Huye,63,Female,SME,0.1,Closed
+Professional & Business Services,"Advertising, media & marketing",Product-based,Cooperative,2005,20,20,7863819,1,Rusizi,60,Female,Micro-enterprise,-0.19,Operating
+Education & Training,EdTech platforms,Product-based,Limited Company,2024,1,1,2030334,36,Nyagatare,44,Male,SME,0.03,Operating
+Manufacturing,"Cement, ceramics, building materials",Hybrid,Cooperative,2017,8,8,17876918,1,Kigali,22,Male,Startup,0,Operating
+"Arts, Entertainment & Recreation",Sports clubs & fitness centers,Service-based,Cooperative,2019,6,6,8995960,40,Huye,26,Female,Startup,0.49,Operating
+Education & Training,Universities & research centers,Hybrid,Partnership,2024,1,0,2363588,18,Nyagatare,26,Female,Startup,0.2,Operating
+Nonprofit & Community Organizations,Charities & associations,Service-based,Cooperative,2011,14,14,4234571,7,Nyagatare,36,Male,Startup,0.07,Operating
+Wholesale & Retail Trade,Motor vehicle & motorcycle trade,Product-based,Sole Proprietorship,2009,16,16,3398273,8,Huye,53,Female,Micro-enterprise,0.02,Operating
+Education & Training,Vocational & technical training (TVET),Product-based,Sole Proprietorship,2007,18,18,3553873,34,Musanze,57,Male,SME,0.32,Operating
+Transport & Logistics,"Logistics, warehousing & courier services",Hybrid,Partnership,2019,6,6,5514721,14,Nyagatare,58,Female,Startup,0.08,Operating
+"Agriculture, Forestry & Fishing","Crop farming (coffee, tea, maize, rice, beans, vegetables, fruits)",Product-based,Limited Company,2019,6,6,2941696,44,Huye,32,Female,Startup,0.43,Operating
+Education & Training,Universities & research centers,Hybrid,Cooperative,2009,16,16,3958197,1,Musanze,49,Male,Startup,-0.18,Operating
+Professional & Business Services,"Advertising, media & marketing",Service-based,Partnership,2008,17,17,1488512,45,Huye,62,Female,Micro-enterprise,-0.11,Operating
+Construction & Real Estate,Road construction & maintenance,Service-based,Cooperative,2005,20,20,18741590,35,Musanze,39,Female,Micro-enterprise,0.04,Operating
+Education & Training,Vocational & technical training (TVET),Product-based,Cooperative,2009,16,16,2544378,23,Musanze,19,Female,SME,0.43,Closed
+Information & Communication Technology (ICT),Data centers & cloud services,Product-based,Partnership,2003,22,22,1024298,43,Nyagatare,41,Male,Micro-enterprise,-0.06,Operating
+Transport & Logistics,"Logistics, warehousing & courier services",Hybrid,Sole Proprietorship,2022,3,3,1417411,31,Musanze,61,Female,Startup,0.05,Operating
+Hospitality & Tourism,Cultural & eco-tourism services,Hybrid,Partnership,2012,13,13,6226050,3,Musanze,54,Male,Micro-enterprise,0.42,Operating
+Professional & Business Services,Security services,Product-based,Sole Proprietorship,2000,25,25,5929980,41,Nyagatare,21,Female,SME,0.42,Operating
+"Arts, Entertainment & Recreation",Sports clubs & fitness centers,Service-based,Sole Proprietorship,2006,19,19,1207155,1,Musanze,62,Male,Startup,0.06,Operating
+Public Administration & Defense,Government services,Product-based,Partnership,2015,10,10,4214575,46,Kigali,41,Male,Micro-enterprise,-0.2,Operating
+Nonprofit & Community Organizations,NGOs & cooperatives,Service-based,Limited Company,2010,15,15,3338561,26,Rubavu,18,Male,Micro-enterprise,0.18,Operating
+Manufacturing,"Chemicals, plastics, rubber, paints",Hybrid,Partnership,2000,25,25,16874554,33,Rusizi,52,Male,Micro-enterprise,0.06,Operating
+Education & Training,Vocational & technical training (TVET),Service-based,Sole Proprietorship,2017,8,8,4289092,10,Nyagatare,47,Female,Micro-enterprise,0.21,Operating
+Wholesale & Retail Trade,"General trade (shops, supermarkets, open markets)",Service-based,Partnership,2002,23,23,1313640,34,Nyagatare,53,Female,Micro-enterprise,0.01,Operating
+Wholesale & Retail Trade,"General trade (shops, supermarkets, open markets)",Hybrid,Cooperative,2005,20,20,3700016,39,Musanze,25,Female,Micro-enterprise,0.16,Operating
+"Agriculture, Forestry & Fishing","Livestock farming (cattle, goats, poultry, pigs, rabbits, fish)",Product-based,Sole Proprietorship,2016,9,9,1056794,1,Musanze,52,Female,SME,-0.02,Operating
+Public Administration & Defense,Government services,Service-based,Limited Company,2010,15,0,3103449,29,Musanze,63,Male,SME,0.37,Operating
+Construction & Real Estate,Building & civil engineering works,Hybrid,Partnership,2002,23,23,15856106,10,Musanze,37,Female,Startup,-0.12,Operating
+Information & Communication Technology (ICT),"Software development, IT services & startups",Service-based,Partnership,2010,15,15,7291449,6,Huye,39,Male,SME,0.2,Closed
+Financial & Insurance Services,"Capital markets, investment funds",Hybrid,Limited Company,2013,12,12,9017873,7,Huye,39,Female,Micro-enterprise,0.2,Operating
+Construction & Real Estate,Building & civil engineering works,Product-based,Sole Proprietorship,2025,0,0,19164320,41,Huye,31,Female,Micro-enterprise,0.46,Operating
+Wholesale & Retail Trade,Motor vehicle & motorcycle trade,Product-based,Cooperative,2012,13,13,289865,26,Rubavu,37,Male,Startup,0.04,Operating
+Wholesale & Retail Trade,"General trade (shops, supermarkets, open markets)",Product-based,Partnership,2001,24,24,4997033,48,Rwamagana,21,Male,SME,0.26,Operating
+Information & Communication Technology (ICT),"Telecommunications (MTN, Airtel, broadband providers)",Hybrid,Cooperative,2006,19,19,3985189,18,Rwamagana,25,Male,Startup,0.43,Operating
+"Agriculture, Forestry & Fishing","Forestry (timber, charcoal, firewood, reforestation)",Product-based,Partnership,2012,13,13,758834,32,Rusizi,31,Female,Micro-enterprise,-0.03,Operating
+Energy & Utilities,Water supply & waste management,Service-based,Sole Proprietorship,2010,15,15,539358,42,Rusizi,50,Female,SME,0.3,Operating
+Wholesale & Retail Trade,Motor vehicle & motorcycle trade,Hybrid,Sole Proprietorship,2021,4,4,4339499,27,Rwamagana,20,Male,Micro-enterprise,-0.03,Operating
+Energy & Utilities,Water supply & waste management,Product-based,Partnership,2011,14,0,15044327,23,Nyagatare,19,Female,SME,-0.03,Operating
+Mining & Quarrying,"Quarrying (stone, sand, gravel)",Product-based,Limited Company,2003,22,0,12494840,8,Huye,43,Male,Micro-enterprise,-0.15,Operating
+Nonprofit & Community Organizations,Religious organizations,Service-based,Limited Company,2023,2,2,1248076,32,Rwamagana,31,Male,Micro-enterprise,0.04,Operating
+Health & Social Work,"Hospitals, clinics, pharmacies",Product-based,Cooperative,2017,8,8,1932744,47,Rusizi,41,Female,SME,0.04,Operating
+Health & Social Work,"Hospitals, clinics, pharmacies",Hybrid,Limited Company,2010,15,15,8848529,44,Nyagatare,28,Female,Startup,-0.12,Operating
+Transport & Logistics,"Road transport (bus, taxi, moto, trucks)",Product-based,Partnership,2008,17,17,9432874,25,Rubavu,62,Male,Micro-enterprise,0.07,Operating
+Public Administration & Defense,Security & defense institutions,Product-based,Sole Proprietorship,2005,20,20,3285840,5,Nyagatare,56,Male,Micro-enterprise,0.41,Operating
+Transport & Logistics,"Logistics, warehousing & courier services",Service-based,Sole Proprietorship,2008,17,17,3546384,19,Huye,36,Female,Startup,-0.02,Operating
+Nonprofit & Community Organizations,Religious organizations,Hybrid,Sole Proprietorship,2011,14,14,7082042,7,Musanze,48,Female,SME,0.14,Operating
+Energy & Utilities,Renewable energy technologies,Service-based,Partnership,2014,11,11,12691600,17,Musanze,55,Male,Micro-enterprise,-0.14,Operating
+Information & Communication Technology (ICT),"Telecommunications (MTN, Airtel, broadband providers)",Service-based,Limited Company,2003,22,0,4176388,11,Rwamagana,64,Male,Micro-enterprise,0.15,Closed
+Transport & Logistics,Rail (future projects),Hybrid,Sole Proprietorship,2014,11,0,3886979,25,Rwamagana,49,Male,Startup,0.06,Operating
+Mining & Quarrying,"Tin, tungsten, tantalum (3Ts)",Product-based,Partnership,2017,8,0,5834108,9,Huye,32,Female,Micro-enterprise,0.1,Operating
+"Agriculture, Forestry & Fishing","Forestry (timber, charcoal, firewood, reforestation)",Product-based,Limited Company,2017,8,8,1838243,14,Musanze,61,Female,Startup,-0.11,Operating
+Mining & Quarrying,"Tin, tungsten, tantalum (3Ts)",Product-based,Sole Proprietorship,2014,11,11,2880157,24,Musanze,25,Male,SME,-0.15,Operating
+Transport & Logistics,"Aviation (RwandAir, airport services)",Product-based,Limited Company,2019,6,6,7095819,42,Rubavu,26,Male,Micro-enterprise,0.36,Operating
+Information & Communication Technology (ICT),"Telecommunications (MTN, Airtel, broadband providers)",Hybrid,Sole Proprietorship,2002,23,23,363767,21,Nyagatare,20,Female,Micro-enterprise,0.48,Operating
+Professional & Business Services,Management consulting & advisory,Service-based,Partnership,2020,5,5,1025961,21,Rusizi,36,Female,Startup,0.02,Operating
+Financial & Insurance Services,Savings & credit cooperatives (SACCOs),Hybrid,Limited Company,2023,2,2,1787690,33,Rubavu,41,Female,Micro-enterprise,-0.14,Closed
+"Agriculture, Forestry & Fishing",Fishing & aquaculture,Service-based,Limited Company,2017,8,8,4179799,38,Musanze,62,Female,SME,0,Operating
+Construction & Real Estate,Road construction & maintenance,Hybrid,Cooperative,2017,8,0,13270876,42,Nyagatare,51,Female,Startup,0,Operating
+Health & Social Work,Health insurance providers,Hybrid,Limited Company,2017,8,8,2664765,44,Nyagatare,43,Female,Micro-enterprise,0.36,Operating
+Financial & Insurance Services,"Capital markets, investment funds",Service-based,Sole Proprietorship,2017,8,8,1394435,42,Rubavu,34,Female,Micro-enterprise,0.2,Operating
+Information & Communication Technology (ICT),"FinTech (mobile money, digital banking solutions)",Service-based,Sole Proprietorship,2009,16,16,7427554,3,Nyagatare,62,Female,SME,0.14,Operating
+Energy & Utilities,"Electricity (hydropower, solar, methane gas, peat, biomass)",Product-based,Partnership,2012,13,13,3420007,13,Nyagatare,50,Male,Startup,0.06,Operating
+Information & Communication Technology (ICT),Data centers & cloud services,Product-based,Limited Company,2011,14,14,9509318,41,Kigali,38,Male,Startup,-0.2,Closed
+Professional & Business Services,Management consulting & advisory,Hybrid,Partnership,2022,3,3,8713234,11,Huye,19,Female,Micro-enterprise,0.23,Operating
+Public Administration & Defense,Government services,Service-based,Sole Proprietorship,2006,19,19,3738120,38,Huye,56,Female,Startup,0.31,Closed
+Construction & Real Estate,Building & civil engineering works,Hybrid,Partnership,2025,0,0,2081693,5,Kigali,36,Male,Micro-enterprise,0.16,Operating
+Manufacturing,"Metal fabrication, machinery, electrical products",Product-based,Cooperative,2006,19,19,15142448,17,Huye,35,Male,Micro-enterprise,-0.18,Operating
+Construction & Real Estate,Road construction & maintenance,Service-based,Cooperative,2017,8,8,17332477,1,Rubavu,31,Female,Startup,0.17,Operating
+Construction & Real Estate,Real estate development & property management,Product-based,Sole Proprietorship,2001,24,24,17325222,42,Rwamagana,19,Male,SME,0.28,Operating
+Information & Communication Technology (ICT),Data centers & cloud services,Product-based,Limited Company,2023,2,2,9551461,29,Kigali,37,Female,Micro-enterprise,0.19,Operating
+"Arts, Entertainment & Recreation",Gaming & leisure activities,Service-based,Partnership,2005,20,20,569104,32,Rusizi,22,Female,Micro-enterprise,0.34,Operating
+Professional & Business Services,Security services,Hybrid,Sole Proprietorship,2022,3,3,2760985,11,Rusizi,63,Male,Micro-enterprise,0.08,Operating
+Construction & Real Estate,Building & civil engineering works,Hybrid,Partnership,2022,3,3,10019249,31,Rusizi,38,Female,SME,-0.06,Operating
+Wholesale & Retail Trade,Motor vehicle & motorcycle trade,Service-based,Cooperative,2019,6,0,2659667,36,Rubavu,36,Female,Startup,0.13,Operating
+Public Administration & Defense,Government services,Hybrid,Partnership,2025,0,0,5203647,48,Huye,51,Male,Startup,-0.16,Operating
+Health & Social Work,Health insurance providers,Service-based,Cooperative,2002,23,23,6483013,36,Rubavu,21,Male,Micro-enterprise,0.26,Closed
+Mining & Quarrying,"Quarrying (stone, sand, gravel)",Service-based,Limited Company,2016,9,9,13096568,48,Huye,43,Female,SME,-0.16,Operating
+Mining & Quarrying,Gold,Service-based,Partnership,2014,11,11,16210259,6,Rusizi,30,Male,Micro-enterprise,0.1,Operating
+"Arts, Entertainment & Recreation",Sports clubs & fitness centers,Service-based,Partnership,2024,1,0,6729563,11,Rwamagana,49,Male,Micro-enterprise,0.38,Operating
+Transport & Logistics,"Road transport (bus, taxi, moto, trucks)",Product-based,Partnership,2010,15,0,3768570,17,Kigali,58,Male,Startup,0.02,Operating
+Construction & Real Estate,"Architecture, engineering & technical services",Hybrid,Sole Proprietorship,2003,22,22,681887,5,Kigali,19,Female,Micro-enterprise,-0.14,Operating
+Education & Training,EdTech platforms,Service-based,Sole Proprietorship,2004,21,21,2139424,8,Rubavu,53,Female,SME,-0.1,Operating
+"Arts, Entertainment & Recreation","Music, events & performing arts",Hybrid,Limited Company,2007,18,18,2336153,37,Nyagatare,47,Female,Micro-enterprise,-0.02,Operating
+Transport & Logistics,"Road transport (bus, taxi, moto, trucks)",Service-based,Sole Proprietorship,2012,13,13,1064227,1,Huye,22,Male,SME,0.42,Closed
+Education & Training,EdTech platforms,Product-based,Partnership,2010,15,15,3554979,17,Nyagatare,46,Male,SME,-0.08,Operating
+Public Administration & Defense,Security & defense institutions,Product-based,Partnership,2024,1,1,4850765,22,Rwamagana,58,Male,Startup,0.45,Operating
+Information & Communication Technology (ICT),"Telecommunications (MTN, Airtel, broadband providers)",Hybrid,Cooperative,2002,23,23,1018375,34,Huye,41,Male,Micro-enterprise,0.45,Operating
+Construction & Real Estate,Road construction & maintenance,Hybrid,Cooperative,2016,9,9,5519127,10,Huye,23,Female,SME,0.11,Operating
+Education & Training,EdTech platforms,Service-based,Limited Company,2015,10,10,3566052,4,Musanze,26,Female,SME,0.27,Operating
+Education & Training,Vocational & technical training (TVET),Hybrid,Sole Proprietorship,2021,4,4,4940296,19,Huye,20,Female,Micro-enterprise,0.01,Operating
+Mining & Quarrying,Gold,Service-based,Limited Company,2019,6,6,13743255,35,Musanze,39,Female,SME,0.15,Operating
+Wholesale & Retail Trade,"General trade (shops, supermarkets, open markets)",Service-based,Sole Proprietorship,2013,12,12,341874,25,Musanze,54,Male,Micro-enterprise,0.17,Operating
+Manufacturing,"Cement, ceramics, building materials",Hybrid,Sole Proprietorship,2013,12,12,4107476,17,Huye,34,Male,SME,0.08,Operating
+Health & Social Work,"Hospitals, clinics, pharmacies",Hybrid,Sole Proprietorship,2024,1,1,2237202,31,Kigali,23,Female,SME,0.08,Operating
+Education & Training,EdTech platforms,Service-based,Partnership,2025,0,0,2490356,29,Kigali,25,Male,Micro-enterprise,0.27,Operating
+Education & Training,"Primary, secondary & tertiary schools",Service-based,Cooperative,2000,25,0,4069117,36,Musanze,54,Female,Startup,0,Operating
+Transport & Logistics,"Aviation (RwandAir, airport services)",Service-based,Partnership,2009,16,16,9622974,10,Musanze,40,Male,SME,0.21,Operating
+Manufacturing,"Food & beverages processing (dairy, breweries, bakeries, milling)",Service-based,Cooperative,2018,7,7,4701224,9,Rwamagana,59,Female,Startup,0.13,Operating
+Nonprofit & Community Organizations,Charities & associations,Product-based,Limited Company,2009,16,16,8423678,4,Rwamagana,55,Male,Startup,0.09,Closed
+Mining & Quarrying,"Quarrying (stone, sand, gravel)",Service-based,Partnership,2012,13,0,2944127,25,Rubavu,22,Male,Startup,0.12,Operating
+Information & Communication Technology (ICT),"Telecommunications (MTN, Airtel, broadband providers)",Product-based,Limited Company,2002,23,23,2986828,28,Rubavu,23,Female,Micro-enterprise,-0.12,Operating
+"Arts, Entertainment & Recreation","Music, events & performing arts",Product-based,Limited Company,2000,25,25,7000616,40,Huye,54,Female,Startup,0.15,Operating
+Nonprofit & Community Organizations,Charities & associations,Hybrid,Cooperative,2001,24,24,7874005,11,Rwamagana,34,Male,SME,0.15,Operating
+Hospitality & Tourism,"Hotels, lodges, restaurants, cafés",Product-based,Limited Company,2015,10,10,6243638,33,Musanze,53,Male,Startup,0.3,Operating
+Construction & Real Estate,"Architecture, engineering & technical services",Hybrid,Sole Proprietorship,2012,13,0,15132302,17,Rusizi,55,Female,SME,0.35,Operating
+Hospitality & Tourism,Cultural & eco-tourism services,Service-based,Limited Company,2016,9,9,4260500,41,Rwamagana,61,Female,Micro-enterprise,-0.11,Closed
+Mining & Quarrying,Gold,Hybrid,Sole Proprietorship,2023,2,2,14752317,5,Nyagatare,27,Female,SME,0.37,Operating
+Energy & Utilities,"Electricity (hydropower, solar, methane gas, peat, biomass)",Service-based,Sole Proprietorship,2020,5,5,16381547,42,Huye,64,Female,SME,0.12,Closed
+Information & Communication Technology (ICT),"Telecommunications (MTN, Airtel, broadband providers)",Hybrid,Limited Company,2006,19,19,3739590,43,Rwamagana,24,Male,SME,0.11,Closed
+Public Administration & Defense,Security & defense institutions,Service-based,Cooperative,2010,15,15,6365960,24,Huye,28,Female,Startup,0.11,Operating
+Nonprofit & Community Organizations,NGOs & cooperatives,Service-based,Partnership,2013,12,12,5709370,31,Rubavu,64,Male,Startup,-0.17,Operating
+Mining & Quarrying,"Tin, tungsten, tantalum (3Ts)",Hybrid,Cooperative,2014,11,11,16717074,33,Rwamagana,18,Female,SME,0.31,Operating
+Financial & Insurance Services,Savings & credit cooperatives (SACCOs),Product-based,Limited Company,2016,9,9,8926893,6,Nyagatare,54,Female,SME,0.13,Operating
+Transport & Logistics,Rail (future projects),Product-based,Partnership,2004,21,21,6288096,21,Rusizi,60,Male,Micro-enterprise,0.31,Operating
+Information & Communication Technology (ICT),"Telecommunications (MTN, Airtel, broadband providers)",Product-based,Sole Proprietorship,2020,5,5,3419808,9,Nyagatare,45,Male,SME,0.12,Operating
+Public Administration & Defense,Government services,Product-based,Sole Proprietorship,2006,19,19,613435,37,Rubavu,63,Male,Startup,0.46,Operating
+Construction & Real Estate,Real estate development & property management,Service-based,Cooperative,2023,2,2,7718687,13,Rubavu,61,Male,SME,0.35,Operating
+Nonprofit & Community Organizations,Charities & associations,Product-based,Limited Company,2002,23,0,1962649,43,Nyagatare,34,Female,Startup,0.22,Closed
+Nonprofit & Community Organizations,Religious organizations,Service-based,Cooperative,2004,21,21,5677350,31,Rwamagana,53,Male,SME,0.42,Operating
+Financial & Insurance Services,"Capital markets, investment funds",Service-based,Partnership,2020,5,5,5615365,41,Kigali,31,Male,Startup,-0.01,Operating
+Wholesale & Retail Trade,"General trade (shops, supermarkets, open markets)",Hybrid,Cooperative,2006,19,19,3020546,21,Rusizi,20,Female,Startup,0.01,Operating
+Wholesale & Retail Trade,"General trade (shops, supermarkets, open markets)",Service-based,Limited Company,2018,7,7,100988,34,Kigali,26,Female,Startup,-0.19,Operating
+Nonprofit & Community Organizations,Religious organizations,Product-based,Partnership,2008,17,17,7495871,17,Rusizi,63,Male,Micro-enterprise,0.08,Operating
+Transport & Logistics,"Road transport (bus, taxi, moto, trucks)",Product-based,Sole Proprietorship,2020,5,5,6707016,7,Rusizi,31,Female,Startup,0.02,Operating
+Nonprofit & Community Organizations,Charities & associations,Service-based,Sole Proprietorship,2001,24,24,8510059,9,Huye,32,Female,Micro-enterprise,0.38,Operating
+Wholesale & Retail Trade,Motor vehicle & motorcycle trade,Product-based,Limited Company,2020,5,5,2219949,16,Musanze,24,Male,Micro-enterprise,-0.07,Operating
+"Agriculture, Forestry & Fishing","Crop farming (coffee, tea, maize, rice, beans, vegetables, fruits)",Product-based,Limited Company,2023,2,2,1600525,35,Rwamagana,27,Female,Startup,0.26,Operating
+Public Administration & Defense,Government services,Hybrid,Cooperative,2014,11,0,4817262,14,Rubavu,25,Male,Startup,-0.08,Operating
+Wholesale & Retail Trade,E-commerce & distribution,Hybrid,Sole Proprietorship,2020,5,5,959716,11,Rubavu,38,Female,Startup,0.31,Operating
+Professional & Business Services,Security services,Service-based,Cooperative,2000,25,25,8586112,36,Rusizi,55,Female,Startup,0.37,Operating
+Nonprofit & Community Organizations,Religious organizations,Product-based,Limited Company,2010,15,15,1037076,32,Huye,39,Female,Micro-enterprise,-0.15,Operating
+Nonprofit & Community Organizations,Religious organizations,Product-based,Limited Company,2013,12,12,8036828,17,Nyagatare,38,Female,Micro-enterprise,-0.1,Closed
+Wholesale & Retail Trade,"General trade (shops, supermarkets, open markets)",Service-based,Limited Company,2009,16,16,2541318,38,Kigali,33,Male,Micro-enterprise,0.13,Operating
+Wholesale & Retail Trade,"General trade (shops, supermarkets, open markets)",Hybrid,Limited Company,2009,16,16,3842154,4,Musanze,24,Male,SME,0.02,Operating
+Education & Training,"Primary, secondary & tertiary schools",Hybrid,Sole Proprietorship,2015,10,0,3449263,2,Rwamagana,19,Female,Startup,0.18,Operating
+Hospitality & Tourism,"Hotels, lodges, restaurants, cafés",Hybrid,Sole Proprietorship,2025,0,0,6903184,45,Huye,31,Male,SME,0.42,Operating
+Financial & Insurance Services,Banking (commercial & microfinance),Service-based,Cooperative,2004,21,21,5347437,41,Musanze,53,Female,Micro-enterprise,0.2,Operating
+Transport & Logistics,Rail (future projects),Service-based,Limited Company,2002,23,23,2927391,26,Musanze,52,Male,Micro-enterprise,0.35,Operating
+Energy & Utilities,"Electricity (hydropower, solar, methane gas, peat, biomass)",Product-based,Cooperative,2018,7,7,18988301,7,Rubavu,27,Male,Micro-enterprise,-0.09,Operating
+Professional & Business Services,Management consulting & advisory,Product-based,Partnership,2014,11,11,8484746,35,Rubavu,63,Male,Micro-enterprise,0.26,Operating
+Manufacturing,"Cement, ceramics, building materials",Hybrid,Limited Company,2010,15,15,16986754,44,Kigali,56,Male,Startup,0.06,Operating
+"Arts, Entertainment & Recreation",Gaming & leisure activities,Service-based,Cooperative,2006,19,19,2435973,5,Rusizi,35,Male,Micro-enterprise,0.45,Closed
+Energy & Utilities,Renewable energy technologies,Product-based,Limited Company,2014,11,11,6208717,39,Huye,21,Female,Startup,0.34,Operating
+Manufacturing,"Cement, ceramics, building materials",Hybrid,Partnership,2003,22,22,19793086,21,Rwamagana,33,Male,SME,0.06,Operating
+"Agriculture, Forestry & Fishing",Fishing & aquaculture,Product-based,Cooperative,2022,3,0,101638,29,Musanze,55,Male,SME,0.38,Operating
+Energy & Utilities,Renewable energy technologies,Product-based,Limited Company,2001,24,24,5924484,7,Musanze,62,Male,Micro-enterprise,0.07,Closed
+Public Administration & Defense,Government services,Hybrid,Partnership,2024,1,1,7773427,20,Nyagatare,35,Male,Micro-enterprise,-0.17,Closed
+"Arts, Entertainment & Recreation",Sports clubs & fitness centers,Service-based,Limited Company,2021,4,4,4452121,46,Huye,37,Male,Micro-enterprise,0.08,Closed
+"Arts, Entertainment & Recreation",Sports clubs & fitness centers,Service-based,Sole Proprietorship,2007,18,0,6245930,13,Nyagatare,29,Female,Micro-enterprise,-0.18,Operating
+Hospitality & Tourism,Cultural & eco-tourism services,Hybrid,Partnership,2004,21,21,1633829,16,Rubavu,52,Female,SME,0.41,Operating
+Transport & Logistics,Rail (future projects),Product-based,Partnership,2003,22,22,6553818,33,Rwamagana,22,Female,SME,-0.18,Operating
+Energy & Utilities,Water supply & waste management,Product-based,Partnership,2022,3,3,15292829,49,Huye,56,Male,Startup,0.4,Operating
+Nonprofit & Community Organizations,Religious organizations,Service-based,Sole Proprietorship,2017,8,8,2623556,4,Nyagatare,18,Male,Micro-enterprise,0.29,Operating
+Health & Social Work,NGOs & community health services,Hybrid,Cooperative,2003,22,22,9884948,14,Kigali,22,Female,Startup,0,Operating
+Health & Social Work,"Hospitals, clinics, pharmacies",Hybrid,Partnership,2022,3,3,5147666,25,Nyagatare,52,Female,Micro-enterprise,0.07,Operating
+Information & Communication Technology (ICT),"Telecommunications (MTN, Airtel, broadband providers)",Service-based,Sole Proprietorship,2011,14,14,2002038,29,Rubavu,37,Female,Startup,0.12,Closed
+Transport & Logistics,"Road transport (bus, taxi, moto, trucks)",Product-based,Cooperative,2022,3,3,859854,9,Kigali,20,Male,Micro-enterprise,0.31,Operating
+Energy & Utilities,Water supply & waste management,Service-based,Partnership,2003,22,22,12058666,10,Rusizi,40,Female,SME,0.23,Operating
+Financial & Insurance Services,"Insurance (life, health, property, vehicle)",Product-based,Cooperative,2009,16,16,3338292,46,Rubavu,35,Male,Micro-enterprise,0.37,Operating
+Transport & Logistics,"Aviation (RwandAir, airport services)",Hybrid,Cooperative,2002,23,23,2159935,23,Musanze,22,Female,Micro-enterprise,0.04,Operating
+"Agriculture, Forestry & Fishing","Crop farming (coffee, tea, maize, rice, beans, vegetables, fruits)",Product-based,Limited Company,2015,10,10,1904951,16,Rwamagana,62,Female,Startup,0.2,Operating
+Professional & Business Services,"Advertising, media & marketing",Service-based,Partnership,2010,15,15,4128015,22,Rusizi,41,Female,Micro-enterprise,0.32,Operating
+Energy & Utilities,"Electricity (hydropower, solar, methane gas, peat, biomass)",Service-based,Limited Company,2007,18,18,5918798,23,Nyagatare,43,Female,Micro-enterprise,0.05,Operating
+Education & Training,Vocational & technical training (TVET),Product-based,Cooperative,2001,24,0,1328937,44,Rubavu,20,Male,SME,0.46,Operating
+"Arts, Entertainment & Recreation",Sports clubs & fitness centers,Hybrid,Cooperative,2012,13,13,2879978,21,Rwamagana,28,Male,Micro-enterprise,0.07,Operating
+Professional & Business Services,Security services,Product-based,Partnership,2007,18,0,7938282,47,Kigali,60,Female,Micro-enterprise,0.27,Closed
+Transport & Logistics,Rail (future projects),Hybrid,Cooperative,2024,1,1,7358579,18,Nyagatare,29,Male,Startup,0.02,Closed
+Nonprofit & Community Organizations,Religious organizations,Hybrid,Cooperative,2010,15,15,9407091,23,Rubavu,41,Female,Startup,0.32,Operating
+Wholesale & Retail Trade,"General trade (shops, supermarkets, open markets)",Product-based,Limited Company,2010,15,15,4453310,49,Rusizi,50,Female,Startup,-0.17,Operating
+Education & Training,EdTech platforms,Product-based,Partnership,2012,13,13,1443497,33,Huye,60,Female,SME,-0.01,Operating
+Manufacturing,Paper & printing,Service-based,Sole Proprietorship,2021,4,4,2536568,5,Musanze,51,Female,Startup,-0.03,Operating
+Public Administration & Defense,Government services,Product-based,Partnership,2015,10,10,8891451,34,Nyagatare,44,Male,Startup,-0.11,Operating
+Wholesale & Retail Trade,"General trade (shops, supermarkets, open markets)",Service-based,Sole Proprietorship,2016,9,0,1068688,30,Huye,33,Male,Micro-enterprise,0.25,Closed
+Education & Training,Universities & research centers,Hybrid,Cooperative,2024,1,1,2005040,31,Rubavu,28,Male,Micro-enterprise,0.16,Operating
+Hospitality & Tourism,Cultural & eco-tourism services,Hybrid,Sole Proprietorship,2023,2,2,5751084,24,Rubavu,18,Male,Micro-enterprise,0.17,Operating
+Hospitality & Tourism,Cultural & eco-tourism services,Hybrid,Sole Proprietorship,2002,23,23,871842,9,Kigali,47,Female,Startup,0.45,Operating
+Financial & Insurance Services,"Capital markets, investment funds",Hybrid,Partnership,2015,10,10,258138,41,Kigali,48,Female,Startup,0.39,Operating
+Education & Training,Vocational & technical training (TVET),Service-based,Partnership,2022,3,3,2339241,21,Kigali,64,Male,Startup,0.43,Operating
+"Agriculture, Forestry & Fishing",Fishing & aquaculture,Product-based,Cooperative,2008,17,17,4733073,45,Huye,54,Male,Startup,0.44,Operating
+Professional & Business Services,"Advertising, media & marketing",Service-based,Partnership,2018,7,0,1141053,29,Kigali,33,Male,Micro-enterprise,0.14,Operating
+Professional & Business Services,"Advertising, media & marketing",Product-based,Limited Company,2021,4,4,3419471,38,Huye,36,Female,SME,-0.12,Operating
+Transport & Logistics,"Road transport (bus, taxi, moto, trucks)",Product-based,Sole Proprietorship,2013,12,12,9978716,46,Nyagatare,31,Female,Startup,0.13,Operating
+Energy & Utilities,Water supply & waste management,Service-based,Sole Proprietorship,2003,22,22,19976680,19,Rubavu,56,Male,Micro-enterprise,0.47,Closed
+Manufacturing,Wood products & furniture,Hybrid,Limited Company,2025,0,0,14595662,8,Rwamagana,18,Female,Micro-enterprise,-0.02,Operating
+Manufacturing,"Food & beverages processing (dairy, breweries, bakeries, milling)",Service-based,Limited Company,2010,15,15,1509266,19,Rwamagana,60,Male,Startup,-0.02,Operating
+Energy & Utilities,"Electricity (hydropower, solar, methane gas, peat, biomass)",Service-based,Cooperative,2008,17,0,13506387,43,Kigali,32,Female,Micro-enterprise,0.24,Operating
+Public Administration & Defense,Security & defense institutions,Service-based,Sole Proprietorship,2024,1,1,7359650,21,Nyagatare,50,Male,Startup,0.06,Operating
+Mining & Quarrying,"Tin, tungsten, tantalum (3Ts)",Product-based,Limited Company,2012,13,13,19556580,26,Rusizi,58,Female,SME,0.22,Operating
+Wholesale & Retail Trade,Motor vehicle & motorcycle trade,Hybrid,Cooperative,2015,10,10,4856822,13,Huye,48,Female,Micro-enterprise,0.35,Operating
+Information & Communication Technology (ICT),"Software development, IT services & startups",Service-based,Sole Proprietorship,2008,17,17,6988236,6,Rwamagana,19,Female,SME,-0.07,Operating
+Manufacturing,"Cement, ceramics, building materials",Hybrid,Limited Company,2025,0,0,12761473,39,Nyagatare,42,Male,SME,0.26,Operating
+Information & Communication Technology (ICT),Data centers & cloud services,Service-based,Limited Company,2002,23,23,8494032,33,Rwamagana,26,Female,SME,0.19,Operating
+Health & Social Work,NGOs & community health services,Service-based,Partnership,2014,11,11,4674579,42,Musanze,25,Female,SME,-0.02,Closed
+Energy & Utilities,Renewable energy technologies,Hybrid,Partnership,2006,19,19,11938780,30,Musanze,45,Male,SME,0.16,Operating
+Nonprofit & Community Organizations,NGOs & cooperatives,Service-based,Sole Proprietorship,2011,14,14,1625373,15,Musanze,56,Male,Startup,-0.15,Operating
+Nonprofit & Community Organizations,Religious organizations,Hybrid,Sole Proprietorship,2017,8,8,2859171,3,Huye,44,Male,SME,0.23,Closed
+Manufacturing,"Textile, apparel & leather goods",Service-based,Partnership,2019,6,6,2924552,27,Rwamagana,29,Male,SME,0.38,Operating
+Education & Training,Universities & research centers,Hybrid,Limited Company,2024,1,1,622937,20,Nyagatare,41,Male,SME,0.43,Operating
+Hospitality & Tourism,Travel agencies & tour operators,Product-based,Sole Proprietorship,2009,16,0,3708476,23,Musanze,45,Male,Startup,0.15,Operating
+"Agriculture, Forestry & Fishing","Forestry (timber, charcoal, firewood, reforestation)",Hybrid,Limited Company,2013,12,12,477356,32,Kigali,42,Female,SME,0.02,Operating
+Hospitality & Tourism,Cultural & eco-tourism services,Hybrid,Sole Proprietorship,2018,7,7,998565,8,Nyagatare,34,Female,Startup,0.49,Operating
+Information & Communication Technology (ICT),"FinTech (mobile money, digital banking solutions)",Service-based,Limited Company,2020,5,5,8934489,11,Rusizi,56,Female,SME,0.21,Operating
+Manufacturing,"Cement, ceramics, building materials",Service-based,Cooperative,2013,12,12,7385802,32,Kigali,29,Female,Micro-enterprise,0.41,Operating
+Transport & Logistics,"Road transport (bus, taxi, moto, trucks)",Hybrid,Sole Proprietorship,2004,21,21,9241355,23,Musanze,27,Male,SME,0.41,Closed
+"Arts, Entertainment & Recreation",Gaming & leisure activities,Service-based,Partnership,2014,11,11,7902191,22,Huye,30,Male,Micro-enterprise,0.25,Operating
+"Arts, Entertainment & Recreation",Sports clubs & fitness centers,Product-based,Limited Company,2007,18,18,9503537,41,Musanze,51,Male,SME,0.18,Operating
+Nonprofit & Community Organizations,Religious organizations,Service-based,Cooperative,2012,13,13,5960921,20,Nyagatare,58,Female,Startup,0.16,Operating
+Construction & Real Estate,"Architecture, engineering & technical services",Product-based,Sole Proprietorship,2013,12,12,9209520,28,Kigali,59,Female,SME,0.45,Operating
+Financial & Insurance Services,Savings & credit cooperatives (SACCOs),Hybrid,Cooperative,2009,16,16,1994288,29,Rusizi,27,Female,SME,0,Operating
+Transport & Logistics,"Aviation (RwandAir, airport services)",Product-based,Limited Company,2006,19,0,3922461,44,Musanze,32,Male,Startup,-0.03,Operating
+Nonprofit & Community Organizations,Charities & associations,Product-based,Sole Proprietorship,2004,21,21,8633226,20,Rubavu,45,Male,Startup,0.22,Closed
+"Arts, Entertainment & Recreation","Music, events & performing arts",Service-based,Sole Proprietorship,2014,11,0,5319016,30,Rubavu,20,Female,Startup,-0.04,Closed
+"Agriculture, Forestry & Fishing",Fishing & aquaculture,Service-based,Partnership,2013,12,12,542034,23,Rusizi,44,Female,SME,-0.14,Operating
+Information & Communication Technology (ICT),"FinTech (mobile money, digital banking solutions)",Hybrid,Limited Company,2009,16,16,9031152,13,Rubavu,29,Female,SME,0.26,Operating
+Construction & Real Estate,"Architecture, engineering & technical services",Hybrid,Sole Proprietorship,2007,18,0,12934488,19,Huye,38,Male,SME,0.18,Operating
+Manufacturing,"Metal fabrication, machinery, electrical products",Service-based,Limited Company,2014,11,11,14420332,34,Rusizi,56,Male,Micro-enterprise,0.46,Closed
+Wholesale & Retail Trade,Motor vehicle & motorcycle trade,Product-based,Partnership,2012,13,13,822889,31,Nyagatare,21,Male,Micro-enterprise,-0.02,Closed
+Information & Communication Technology (ICT),"FinTech (mobile money, digital banking solutions)",Product-based,Cooperative,2022,3,3,5854213,44,Kigali,31,Female,Micro-enterprise,0.47,Operating
+Education & Training,Vocational & technical training (TVET),Product-based,Limited Company,2008,17,17,4310911,23,Nyagatare,25,Male,Micro-enterprise,0.26,Operating
+Mining & Quarrying,"Quarrying (stone, sand, gravel)",Service-based,Sole Proprietorship,2016,9,9,9757529,29,Kigali,19,Male,SME,0.14,Operating
+Wholesale & Retail Trade,"General trade (shops, supermarkets, open markets)",Hybrid,Cooperative,2013,12,12,4360873,31,Rwamagana,62,Male,SME,-0.1,Operating
+Public Administration & Defense,Government services,Hybrid,Sole Proprietorship,2022,3,3,4068676,48,Rwamagana,29,Male,Startup,0.22,Closed
+Mining & Quarrying,Gold,Hybrid,Limited Company,2005,20,20,7078080,18,Nyagatare,58,Female,Micro-enterprise,0.16,Operating
+"Arts, Entertainment & Recreation",Media & film industry,Hybrid,Sole Proprietorship,2001,24,0,655708,31,Huye,37,Female,Micro-enterprise,0.44,Operating
+Transport & Logistics,"Aviation (RwandAir, airport services)",Hybrid,Sole Proprietorship,2023,2,2,8580480,25,Rwamagana,43,Male,SME,-0.08,Operating
+Construction & Real Estate,Road construction & maintenance,Service-based,Limited Company,2012,13,13,12329435,10,Rubavu,31,Female,Micro-enterprise,0.29,Operating
+Nonprofit & Community Organizations,NGOs & cooperatives,Service-based,Sole Proprietorship,2000,25,25,4076510,21,Kigali,38,Female,SME,-0.02,Operating
+"Agriculture, Forestry & Fishing","Forestry (timber, charcoal, firewood, reforestation)",Hybrid,Sole Proprietorship,2024,1,1,3193767,41,Kigali,46,Female,Micro-enterprise,-0.02,Closed
+Information & Communication Technology (ICT),"Software development, IT services & startups",Service-based,Limited Company,2012,13,13,6133114,32,Musanze,48,Female,SME,-0.15,Operating
+Wholesale & Retail Trade,"General trade (shops, supermarkets, open markets)",Service-based,Limited Company,2014,11,11,3195226,22,Rwamagana,35,Female,Micro-enterprise,-0.14,Operating
+Nonprofit & Community Organizations,Charities & associations,Product-based,Partnership,2011,14,14,8452217,13,Rwamagana,36,Female,SME,0.08,Operating
+Hospitality & Tourism,Travel agencies & tour operators,Product-based,Limited Company,2017,8,8,1673565,4,Musanze,41,Male,Startup,-0.04,Operating
+Manufacturing,"Metal fabrication, machinery, electrical products",Service-based,Sole Proprietorship,2018,7,7,3477242,41,Huye,60,Female,Startup,0.22,Closed
+Health & Social Work,Health insurance providers,Hybrid,Partnership,2014,11,11,8769369,34,Rwamagana,60,Male,Micro-enterprise,-0.1,Operating
+Education & Training,EdTech platforms,Product-based,Cooperative,2020,5,5,921507,5,Huye,59,Female,SME,0.43,Operating
+Mining & Quarrying,"Quarrying (stone, sand, gravel)",Service-based,Limited Company,2005,20,20,15971850,13,Rwamagana,32,Female,SME,0.36,Operating
+Mining & Quarrying,Gold,Hybrid,Limited Company,2017,8,0,7198398,16,Nyagatare,59,Female,Startup,0.13,Operating
+Information & Communication Technology (ICT),"Telecommunications (MTN, Airtel, broadband providers)",Hybrid,Limited Company,2011,14,14,4292534,9,Nyagatare,34,Male,SME,0.1,Operating
+Financial & Insurance Services,"Insurance (life, health, property, vehicle)",Product-based,Limited Company,2005,20,20,2881941,12,Rubavu,39,Female,Micro-enterprise,0.08,Operating
+Manufacturing,Pharmaceutical & medical products,Hybrid,Cooperative,2013,12,12,8230748,10,Rusizi,58,Female,Startup,0.43,Operating
+Wholesale & Retail Trade,E-commerce & distribution,Service-based,Sole Proprietorship,2006,19,19,2054735,3,Rubavu,55,Male,Micro-enterprise,-0.1,Operating
+Nonprofit & Community Organizations,Religious organizations,Hybrid,Partnership,2010,15,0,7437969,21,Rubavu,55,Female,Micro-enterprise,0.47,Closed
+Public Administration & Defense,Security & defense institutions,Product-based,Limited Company,2025,0,0,1201916,33,Kigali,28,Female,Startup,0.31,Operating
+Energy & Utilities,Water supply & waste management,Hybrid,Sole Proprietorship,2009,16,16,16109499,17,Kigali,46,Female,Micro-enterprise,0.21,Operating
+Manufacturing,Paper & printing,Service-based,Sole Proprietorship,2023,2,2,2539661,17,Rubavu,34,Male,SME,0.18,Operating
+Manufacturing,"Textile, apparel & leather goods",Service-based,Partnership,2004,21,21,6546511,47,Rusizi,29,Female,SME,0.21,Closed
+Construction & Real Estate,"Architecture, engineering & technical services",Service-based,Partnership,2025,0,0,13189123,1,Rubavu,57,Male,Startup,0.41,Operating
+"Agriculture, Forestry & Fishing",Fishing & aquaculture,Product-based,Partnership,2010,15,15,3953962,1,Kigali,49,Female,Startup,0.37,Operating
+"Agriculture, Forestry & Fishing","Forestry (timber, charcoal, firewood, reforestation)",Hybrid,Partnership,2013,12,12,2160848,22,Huye,39,Female,SME,0.17,Operating
+Construction & Real Estate,"Architecture, engineering & technical services",Product-based,Limited Company,2007,18,18,3692848,1,Rubavu,32,Female,Startup,0.41,Operating
+Professional & Business Services,"Legal, auditing & accounting firms",Product-based,Limited Company,2007,18,18,744645,37,Rwamagana,21,Male,SME,-0.01,Closed
+Nonprofit & Community Organizations,Religious organizations,Service-based,Partnership,2007,18,18,7117461,29,Kigali,56,Female,Startup,0.24,Operating
+Energy & Utilities,Water supply & waste management,Hybrid,Limited Company,2016,9,0,19013994,12,Huye,18,Female,SME,0.28,Operating
+Wholesale & Retail Trade,Motor vehicle & motorcycle trade,Product-based,Cooperative,2006,19,0,3167285,48,Nyagatare,47,Female,Micro-enterprise,0.42,Operating
+Professional & Business Services,"Legal, auditing & accounting firms",Hybrid,Limited Company,2013,12,12,2792311,17,Rusizi,51,Male,SME,-0.1,Operating
+Professional & Business Services,"Legal, auditing & accounting firms",Product-based,Cooperative,2024,1,1,3915437,22,Kigali,31,Female,Startup,0.46,Operating
+"Arts, Entertainment & Recreation",Gaming & leisure activities,Service-based,Limited Company,2009,16,16,8622948,20,Rwamagana,56,Female,Micro-enterprise,0.07,Operating
+Energy & Utilities,Water supply & waste management,Hybrid,Partnership,2014,11,11,1109800,37,Rusizi,36,Female,Startup,-0.13,Operating
+Construction & Real Estate,Real estate development & property management,Product-based,Cooperative,2019,6,6,14463165,45,Rusizi,23,Male,Micro-enterprise,0.05,Operating
+"Agriculture, Forestry & Fishing","Forestry (timber, charcoal, firewood, reforestation)",Service-based,Partnership,2021,4,4,583658,43,Musanze,42,Female,Micro-enterprise,0.41,Operating
+Professional & Business Services,Management consulting & advisory,Hybrid,Limited Company,2010,15,15,7000196,7,Nyagatare,33,Male,Startup,0.23,Operating
+Nonprofit & Community Organizations,NGOs & cooperatives,Service-based,Partnership,2015,10,0,9773737,8,Rusizi,19,Female,SME,0.37,Operating
+Transport & Logistics,Rail (future projects),Service-based,Sole Proprietorship,2012,13,0,7339121,29,Rwamagana,24,Female,Startup,-0.01,Operating
+"Arts, Entertainment & Recreation",Media & film industry,Product-based,Limited Company,2013,12,12,9308236,40,Nyagatare,44,Male,Micro-enterprise,0.22,Operating
+Education & Training,EdTech platforms,Service-based,Partnership,2021,4,4,1652625,13,Rubavu,41,Female,Startup,0.18,Operating
+Manufacturing,Pharmaceutical & medical products,Hybrid,Sole Proprietorship,2018,7,7,10598060,31,Kigali,37,Male,Micro-enterprise,0.06,Operating
+Wholesale & Retail Trade,Motor vehicle & motorcycle trade,Product-based,Cooperative,2006,19,19,4460509,8,Rubavu,38,Male,Startup,0.41,Operating
+Manufacturing,"Cement, ceramics, building materials",Product-based,Partnership,2002,23,23,3541657,40,Huye,33,Male,SME,0.29,Operating
+Health & Social Work,NGOs & community health services,Service-based,Partnership,2004,21,21,2493514,34,Rubavu,18,Female,Micro-enterprise,0.02,Operating
+Professional & Business Services,"Legal, auditing & accounting firms",Product-based,Sole Proprietorship,2017,8,8,4889648,36,Musanze,35,Female,SME,0.3,Operating
+Hospitality & Tourism,Travel agencies & tour operators,Hybrid,Partnership,2002,23,23,6473225,15,Rubavu,45,Male,Micro-enterprise,0.43,Operating
+Professional & Business Services,"Legal, auditing & accounting firms",Product-based,Partnership,2014,11,11,4429032,13,Kigali,25,Male,SME,0.28,Operating
+Education & Training,EdTech platforms,Service-based,Sole Proprietorship,2006,19,19,1108010,27,Musanze,64,Female,Startup,0.38,Closed
+Mining & Quarrying,Gold,Product-based,Limited Company,2005,20,0,16732891,44,Huye,53,Female,Micro-enterprise,0.18,Operating
+Health & Social Work,NGOs & community health services,Product-based,Partnership,2022,3,3,7329503,40,Musanze,58,Male,Micro-enterprise,0.11,Operating
+Hospitality & Tourism,Conference & events (MICE industry),Service-based,Cooperative,2001,24,24,1722293,12,Huye,52,Female,Startup,0.01,Operating
+"Arts, Entertainment & Recreation","Music, events & performing arts",Service-based,Sole Proprietorship,2012,13,13,9361858,6,Musanze,45,Male,Startup,0.39,Operating
+Mining & Quarrying,"Tin, tungsten, tantalum (3Ts)",Hybrid,Cooperative,2006,19,19,4913075,31,Huye,29,Male,SME,0.25,Operating
+Education & Training,"Primary, secondary & tertiary schools",Service-based,Cooperative,2013,12,12,2603236,31,Kigali,48,Male,Startup,0.03,Operating
+Hospitality & Tourism,"Hotels, lodges, restaurants, cafés",Product-based,Sole Proprietorship,2022,3,3,4275076,22,Rwamagana,58,Female,SME,-0.03,Operating
+Public Administration & Defense,Security & defense institutions,Hybrid,Sole Proprietorship,2022,3,3,2153494,20,Musanze,28,Male,Micro-enterprise,0.45,Operating
+Manufacturing,"Metal fabrication, machinery, electrical products",Service-based,Cooperative,2021,4,4,2850444,38,Rubavu,51,Female,Startup,0.5,Operating
+"Arts, Entertainment & Recreation",Sports clubs & fitness centers,Hybrid,Partnership,2007,18,18,9840237,33,Rwamagana,44,Male,SME,0.46,Operating
+Education & Training,"Primary, secondary & tertiary schools",Service-based,Partnership,2001,24,24,3162065,18,Rubavu,44,Female,Micro-enterprise,-0.01,Operating
+Nonprofit & Community Organizations,Religious organizations,Product-based,Cooperative,2024,1,1,5584924,23,Rubavu,62,Female,SME,-0.14,Operating
+Financial & Insurance Services,"Capital markets, investment funds",Service-based,Limited Company,2022,3,3,3332356,34,Huye,58,Female,SME,0.41,Operating
+Wholesale & Retail Trade,Motor vehicle & motorcycle trade,Service-based,Limited Company,2000,25,25,1929544,12,Musanze,19,Female,Micro-enterprise,0.41,Operating
+Health & Social Work,Health insurance providers,Product-based,Sole Proprietorship,2017,8,8,4605777,9,Rusizi,27,Female,Micro-enterprise,-0.01,Operating
+Nonprofit & Community Organizations,NGOs & cooperatives,Service-based,Limited Company,2006,19,19,2709609,27,Rubavu,46,Female,Startup,0.37,Operating
+Information & Communication Technology (ICT),Data centers & cloud services,Hybrid,Limited Company,2014,11,11,4403326,47,Kigali,27,Male,SME,-0.16,Operating
+Professional & Business Services,"Advertising, media & marketing",Service-based,Cooperative,2007,18,18,8251605,2,Rusizi,30,Female,SME,0.38,Operating
+Mining & Quarrying,"Quarrying (stone, sand, gravel)",Service-based,Cooperative,2016,9,9,12637907,45,Rwamagana,22,Female,Startup,0.44,Operating
+"Arts, Entertainment & Recreation",Gaming & leisure activities,Product-based,Partnership,2008,17,17,904451,45,Nyagatare,58,Female,SME,-0.18,Operating
+Transport & Logistics,"Road transport (bus, taxi, moto, trucks)",Product-based,Sole Proprietorship,2001,24,24,3112858,44,Rubavu,46,Male,Startup,0.26,Operating
+Nonprofit & Community Organizations,Religious organizations,Service-based,Sole Proprietorship,2005,20,20,6726420,37,Rusizi,48,Male,SME,-0.11,Closed
+Information & Communication Technology (ICT),Data centers & cloud services,Hybrid,Limited Company,2013,12,12,5951618,44,Rubavu,64,Male,Startup,-0.14,Operating
+Energy & Utilities,"Electricity (hydropower, solar, methane gas, peat, biomass)",Product-based,Limited Company,2025,0,0,5520533,8,Huye,51,Female,Startup,0.06,Operating
+Nonprofit & Community Organizations,NGOs & cooperatives,Hybrid,Sole Proprietorship,2006,19,19,9218821,27,Rwamagana,43,Female,Micro-enterprise,0.11,Operating
+Mining & Quarrying,Gold,Product-based,Limited Company,2004,21,0,4680483,14,Rusizi,55,Female,SME,-0.08,Operating
+Hospitality & Tourism,Conference & events (MICE industry),Product-based,Sole Proprietorship,2004,21,21,1017679,17,Kigali,59,Female,SME,0.33,Operating
+"Arts, Entertainment & Recreation","Music, events & performing arts",Service-based,Sole Proprietorship,2011,14,0,3876013,8,Musanze,38,Male,Micro-enterprise,-0.06,Operating
+"Arts, Entertainment & Recreation","Music, events & performing arts",Hybrid,Partnership,2001,24,24,3320049,33,Musanze,22,Male,Startup,0.43,Operating
+Professional & Business Services,Security services,Service-based,Limited Company,2000,25,25,6177133,15,Nyagatare,51,Male,Startup,0.2,Operating
+Energy & Utilities,"Electricity (hydropower, solar, methane gas, peat, biomass)",Service-based,Sole Proprietorship,2007,18,18,639615,33,Rubavu,50,Female,SME,0.43,Operating
+Nonprofit & Community Organizations,NGOs & cooperatives,Product-based,Cooperative,2012,13,13,5629195,1,Huye,44,Male,Micro-enterprise,0.49,Operating
+"Agriculture, Forestry & Fishing",Fishing & aquaculture,Service-based,Cooperative,2006,19,19,4765038,25,Rubavu,61,Male,Startup,-0.1,Operating
+Manufacturing,"Chemicals, plastics, rubber, paints",Hybrid,Limited Company,2016,9,9,18976728,20,Nyagatare,31,Male,Micro-enterprise,-0.03,Operating
+Financial & Insurance Services,Savings & credit cooperatives (SACCOs),Hybrid,Limited Company,2005,20,20,8359445,12,Huye,55,Female,Startup,-0.12,Operating
+Mining & Quarrying,"Tin, tungsten, tantalum (3Ts)",Product-based,Limited Company,2019,6,6,8178606,30,Rwamagana,35,Female,Startup,-0.16,Operating
+Professional & Business Services,"Legal, auditing & accounting firms",Service-based,Partnership,2005,20,20,4984278,37,Rwamagana,59,Male,Micro-enterprise,-0.1,Operating
+Financial & Insurance Services,"Insurance (life, health, property, vehicle)",Hybrid,Partnership,2013,12,12,2630070,33,Rusizi,49,Male,Startup,0.45,Operating
+Health & Social Work,Health insurance providers,Product-based,Cooperative,2024,1,0,9537657,47,Rwamagana,49,Male,SME,0.34,Operating
+"Agriculture, Forestry & Fishing","Forestry (timber, charcoal, firewood, reforestation)",Product-based,Limited Company,2012,13,0,3597275,4,Rubavu,31,Female,Startup,-0.19,Operating
+Financial & Insurance Services,Banking (commercial & microfinance),Product-based,Sole Proprietorship,2022,3,3,1446852,24,Rusizi,44,Male,Micro-enterprise,0.36,Closed
+Mining & Quarrying,"Quarrying (stone, sand, gravel)",Service-based,Cooperative,2025,0,0,9544275,35,Huye,38,Male,Startup,0.32,Operating
+Wholesale & Retail Trade,E-commerce & distribution,Hybrid,Partnership,2010,15,15,3497667,37,Rubavu,32,Male,SME,0.1,Operating
+Transport & Logistics,Rail (future projects),Service-based,Partnership,2020,5,5,1415918,39,Musanze,57,Male,Startup,0.39,Operating
+Financial & Insurance Services,Banking (commercial & microfinance),Service-based,Limited Company,2016,9,9,1611245,28,Rubavu,27,Male,SME,-0.1,Operating
+Hospitality & Tourism,Travel agencies & tour operators,Service-based,Partnership,2019,6,6,2524454,32,Kigali,28,Female,SME,0.04,Operating
+Education & Training,EdTech platforms,Service-based,Partnership,2010,15,15,1176749,2,Rwamagana,45,Male,Startup,0.21,Operating
+Energy & Utilities,Renewable energy technologies,Service-based,Sole Proprietorship,2021,4,4,3692577,3,Rwamagana,53,Male,SME,0.33,Operating
+Health & Social Work,Health insurance providers,Product-based,Partnership,2008,17,17,9439247,23,Nyagatare,18,Male,Startup,0.38,Operating
+Wholesale & Retail Trade,E-commerce & distribution,Service-based,Sole Proprietorship,2012,13,13,1558630,37,Rubavu,18,Male,Micro-enterprise,0.14,Closed
+Mining & Quarrying,"Tin, tungsten, tantalum (3Ts)",Hybrid,Cooperative,2007,18,18,17817718,11,Nyagatare,53,Female,Startup,0.15,Operating
+Mining & Quarrying,"Quarrying (stone, sand, gravel)",Product-based,Sole Proprietorship,2005,20,20,7710842,28,Rubavu,21,Female,Startup,0.09,Operating
+"Arts, Entertainment & Recreation","Music, events & performing arts",Service-based,Limited Company,2015,10,10,6002995,6,Musanze,19,Male,SME,0.25,Closed
+Hospitality & Tourism,"Hotels, lodges, restaurants, cafés",Service-based,Cooperative,2012,13,13,2340170,3,Rusizi,59,Male,SME,-0.01,Closed
+Health & Social Work,Health insurance providers,Service-based,Cooperative,2008,17,17,652915,48,Huye,19,Male,Micro-enterprise,0.29,Closed
+Wholesale & Retail Trade,E-commerce & distribution,Hybrid,Sole Proprietorship,2009,16,0,946045,14,Rwamagana,36,Female,Startup,0.19,Operating
+Hospitality & Tourism,Cultural & eco-tourism services,Product-based,Sole Proprietorship,2019,6,6,4100357,42,Musanze,52,Male,SME,0.21,Operating
+Wholesale & Retail Trade,"General trade (shops, supermarkets, open markets)",Service-based,Limited Company,2004,21,21,1187597,28,Kigali,59,Female,Startup,-0.13,Closed
+Mining & Quarrying,"Quarrying (stone, sand, gravel)",Hybrid,Cooperative,2018,7,7,7561352,5,Kigali,25,Female,SME,0.37,Operating
+Information & Communication Technology (ICT),"FinTech (mobile money, digital banking solutions)",Product-based,Partnership,2017,8,8,4929940,6,Nyagatare,36,Male,Micro-enterprise,0.08,Operating
+Nonprofit & Community Organizations,NGOs & cooperatives,Product-based,Limited Company,2013,12,12,9306383,21,Rubavu,54,Female,Startup,0.06,Operating
+Manufacturing,"Textile, apparel & leather goods",Product-based,Partnership,2010,15,15,7087934,11,Rusizi,58,Female,SME,0.49,Closed
+Public Administration & Defense,Security & defense institutions,Product-based,Partnership,2011,14,14,7635914,27,Musanze,52,Female,Micro-enterprise,0.47,Operating
+Energy & Utilities,"Electricity (hydropower, solar, methane gas, peat, biomass)",Product-based,Partnership,2018,7,7,4257878,13,Rubavu,52,Male,Startup,-0.1,Operating
+Professional & Business Services,"Legal, auditing & accounting firms",Service-based,Partnership,2025,0,0,4240235,30,Huye,64,Female,SME,0.41,Operating
+Financial & Insurance Services,"Insurance (life, health, property, vehicle)",Service-based,Limited Company,2001,24,24,1944013,3,Nyagatare,53,Female,SME,-0.13,Operating
+Manufacturing,"Cement, ceramics, building materials",Product-based,Limited Company,2009,16,16,962953,30,Nyagatare,54,Female,SME,0.5,Operating
+Information & Communication Technology (ICT),Data centers & cloud services,Hybrid,Sole Proprietorship,2023,2,2,6832652,13,Huye,26,Male,SME,0.38,Operating
+Wholesale & Retail Trade,"General trade (shops, supermarkets, open markets)",Product-based,Partnership,2022,3,3,2161928,31,Rusizi,50,Female,Startup,0.33,Operating
+Transport & Logistics,"Logistics, warehousing & courier services",Hybrid,Sole Proprietorship,2008,17,17,4538487,10,Rubavu,58,Male,SME,0.24,Operating
+Health & Social Work,NGOs & community health services,Product-based,Partnership,2003,22,22,5977783,46,Nyagatare,47,Male,Startup,0.05,Operating
+Manufacturing,Paper & printing,Service-based,Sole Proprietorship,2019,6,6,4881747,30,Huye,56,Male,Startup,0.21,Closed
+"Agriculture, Forestry & Fishing","Crop farming (coffee, tea, maize, rice, beans, vegetables, fruits)",Service-based,Sole Proprietorship,2025,0,0,3773947,8,Rwamagana,31,Female,Micro-enterprise,0.06,Operating
+Financial & Insurance Services,"Capital markets, investment funds",Hybrid,Limited Company,2006,19,19,2626436,8,Rubavu,54,Female,Startup,0.05,Operating
+Construction & Real Estate,Real estate development & property management,Service-based,Partnership,2011,14,14,17004009,12,Nyagatare,21,Male,SME,-0.11,Operating
+"Arts, Entertainment & Recreation","Music, events & performing arts",Service-based,Sole Proprietorship,2011,14,14,6121708,37,Kigali,38,Male,Startup,0.3,Operating
+Public Administration & Defense,Government services,Hybrid,Partnership,2016,9,9,7403832,3,Nyagatare,26,Female,SME,0.38,Operating
+Health & Social Work,Health insurance providers,Service-based,Cooperative,2004,21,21,7094141,35,Nyagatare,50,Male,SME,0.05,Closed
+Public Administration & Defense,Security & defense institutions,Hybrid,Limited Company,2020,5,5,2049948,32,Musanze,59,Female,Micro-enterprise,-0.19,Operating
+Nonprofit & Community Organizations,Religious organizations,Hybrid,Sole Proprietorship,2005,20,20,7120654,2,Nyagatare,61,Male,SME,0.08,Operating
+Mining & Quarrying,"Quarrying (stone, sand, gravel)",Service-based,Limited Company,2016,9,9,10956162,32,Huye,55,Female,SME,0.32,Operating
+"Arts, Entertainment & Recreation",Media & film industry,Hybrid,Limited Company,2022,3,3,1669979,39,Rubavu,44,Female,Startup,0.15,Closed
+Construction & Real Estate,Road construction & maintenance,Product-based,Sole Proprietorship,2000,25,25,13917380,34,Huye,45,Female,Micro-enterprise,-0.04,Operating
+Wholesale & Retail Trade,Motor vehicle & motorcycle trade,Hybrid,Cooperative,2012,13,13,2315935,13,Rwamagana,44,Male,SME,0.09,Operating
+Information & Communication Technology (ICT),Data centers & cloud services,Product-based,Limited Company,2012,13,13,4046497,23,Rwamagana,55,Male,SME,0.14,Operating
+"Agriculture, Forestry & Fishing","Livestock farming (cattle, goats, poultry, pigs, rabbits, fish)",Service-based,Limited Company,2017,8,8,2718545,14,Rwamagana,38,Male,SME,-0.03,Operating
+Education & Training,EdTech platforms,Service-based,Partnership,2006,19,19,3556945,45,Kigali,18,Female,Startup,0.49,Operating
+Mining & Quarrying,Gold,Product-based,Sole Proprietorship,2022,3,0,18888242,10,Rubavu,42,Male,Micro-enterprise,-0.12,Operating
+"Agriculture, Forestry & Fishing","Livestock farming (cattle, goats, poultry, pigs, rabbits, fish)",Product-based,Limited Company,2014,11,11,1082023,24,Musanze,49,Female,Startup,0.47,Closed
+Transport & Logistics,"Road transport (bus, taxi, moto, trucks)",Product-based,Cooperative,2009,16,16,9816453,9,Nyagatare,19,Male,Micro-enterprise,0.3,Operating
+Mining & Quarrying,"Quarrying (stone, sand, gravel)",Product-based,Limited Company,2015,10,0,3289220,4,Rusizi,27,Female,SME,0.39,Operating
+Education & Training,"Primary, secondary & tertiary schools",Product-based,Cooperative,2015,10,10,4160359,3,Rwamagana,62,Female,Startup,0.43,Operating
+"Arts, Entertainment & Recreation",Media & film industry,Hybrid,Partnership,2018,7,7,7032225,14,Rubavu,58,Male,Startup,-0.04,Operating
+Hospitality & Tourism,Cultural & eco-tourism services,Hybrid,Partnership,2025,0,0,8263669,15,Huye,61,Male,Startup,0.14,Closed
+Information & Communication Technology (ICT),"FinTech (mobile money, digital banking solutions)",Product-based,Sole Proprietorship,2023,2,2,2567876,2,Rwamagana,64,Male,Startup,-0.15,Operating
+Mining & Quarrying,"Tin, tungsten, tantalum (3Ts)",Service-based,Limited Company,2025,0,0,18496783,14,Rubavu,49,Male,SME,0.12,Operating
+Professional & Business Services,Management consulting & advisory,Service-based,Limited Company,2014,11,11,8130391,32,Rubavu,44,Female,Micro-enterprise,0.02,Operating
+Public Administration & Defense,Government services,Service-based,Sole Proprietorship,2021,4,4,4040483,27,Musanze,28,Male,Micro-enterprise,-0.2,Operating
+Energy & Utilities,"Electricity (hydropower, solar, methane gas, peat, biomass)",Service-based,Sole Proprietorship,2006,19,19,18248311,5,Nyagatare,29,Female,SME,0.27,Operating
+Public Administration & Defense,Security & defense institutions,Product-based,Limited Company,2010,15,15,9717175,40,Rwamagana,42,Male,Micro-enterprise,0.02,Operating
+Transport & Logistics,"Road transport (bus, taxi, moto, trucks)",Hybrid,Sole Proprietorship,2015,10,0,2623794,12,Kigali,46,Male,Startup,0.43,Closed
+Mining & Quarrying,"Quarrying (stone, sand, gravel)",Hybrid,Cooperative,2021,4,4,15774904,13,Huye,22,Female,SME,-0.04,Operating
+Transport & Logistics,"Logistics, warehousing & courier services",Product-based,Limited Company,2019,6,6,8363923,12,Rubavu,49,Male,Startup,-0.2,Operating
+Professional & Business Services,"Advertising, media & marketing",Service-based,Partnership,2014,11,0,5226995,42,Kigali,54,Female,Startup,0.2,Operating
+Transport & Logistics,"Road transport (bus, taxi, moto, trucks)",Hybrid,Limited Company,2017,8,8,5056192,31,Kigali,34,Female,Startup,0.16,Operating
+Information & Communication Technology (ICT),"FinTech (mobile money, digital banking solutions)",Service-based,Partnership,2007,18,18,4889977,9,Rwamagana,57,Male,Micro-enterprise,0.04,Operating
+"Agriculture, Forestry & Fishing","Crop farming (coffee, tea, maize, rice, beans, vegetables, fruits)",Service-based,Cooperative,2013,12,12,829614,40,Rusizi,45,Male,SME,-0.2,Operating
+Financial & Insurance Services,"Capital markets, investment funds",Service-based,Sole Proprietorship,2017,8,8,5902538,44,Nyagatare,43,Female,SME,0.23,Operating
+Transport & Logistics,"Road transport (bus, taxi, moto, trucks)",Hybrid,Partnership,2000,25,25,5879568,22,Kigali,18,Female,Startup,0.05,Operating
+"Agriculture, Forestry & Fishing","Forestry (timber, charcoal, firewood, reforestation)",Product-based,Sole Proprietorship,2001,24,24,3241897,45,Huye,63,Male,Startup,0.28,Closed
+Financial & Insurance Services,"Insurance (life, health, property, vehicle)",Hybrid,Partnership,2001,24,24,4715611,14,Rwamagana,46,Female,Startup,0.4,Operating
+Financial & Insurance Services,"Insurance (life, health, property, vehicle)",Product-based,Sole Proprietorship,2014,11,11,5698980,40,Rusizi,26,Female,Micro-enterprise,-0.12,Operating
+Health & Social Work,"Hospitals, clinics, pharmacies",Service-based,Cooperative,2009,16,16,7557017,5,Nyagatare,20,Female,SME,0.25,Closed
+Energy & Utilities,Renewable energy technologies,Hybrid,Partnership,2019,6,6,16987477,30,Huye,30,Female,Micro-enterprise,-0.17,Operating
+"Agriculture, Forestry & Fishing","Forestry (timber, charcoal, firewood, reforestation)",Service-based,Partnership,2007,18,18,4827911,9,Rwamagana,48,Female,Micro-enterprise,0.16,Operating
+Energy & Utilities,Renewable energy technologies,Service-based,Limited Company,2004,21,21,15012495,19,Rwamagana,32,Female,SME,0.46,Closed
+Nonprofit & Community Organizations,Charities & associations,Hybrid,Limited Company,2010,15,15,381073,34,Rubavu,41,Male,SME,0.34,Operating
+Professional & Business Services,"Advertising, media & marketing",Service-based,Sole Proprietorship,2008,17,17,2855152,44,Rwamagana,30,Male,SME,-0.12,Operating
+Energy & Utilities,Renewable energy technologies,Service-based,Sole Proprietorship,2007,18,18,16948736,24,Nyagatare,28,Female,SME,-0.13,Operating
+Hospitality & Tourism,"Hotels, lodges, restaurants, cafés",Hybrid,Partnership,2014,11,11,254740,38,Huye,20,Female,SME,0.03,Operating
+Energy & Utilities,Renewable energy technologies,Hybrid,Partnership,2012,13,13,17615247,20,Rwamagana,44,Male,Micro-enterprise,0.06,Operating
+Wholesale & Retail Trade,Motor vehicle & motorcycle trade,Hybrid,Partnership,2014,11,0,2326093,18,Huye,28,Male,SME,0.07,Operating
+Manufacturing,Wood products & furniture,Hybrid,Sole Proprietorship,2017,8,8,5688170,34,Huye,19,Female,Startup,-0.1,Operating
+Information & Communication Technology (ICT),"Software development, IT services & startups",Service-based,Partnership,2011,14,14,2825564,20,Musanze,50,Male,Startup,0.14,Operating
+Hospitality & Tourism,Conference & events (MICE industry),Product-based,Sole Proprietorship,2020,5,5,4700220,25,Kigali,28,Female,SME,-0.03,Operating
+Education & Training,EdTech platforms,Product-based,Sole Proprietorship,2000,25,25,4873757,25,Rubavu,41,Female,Micro-enterprise,-0.16,Closed
+Nonprofit & Community Organizations,Religious organizations,Hybrid,Sole Proprietorship,2023,2,2,2597675,9,Musanze,40,Female,SME,-0.03,Closed
+Manufacturing,"Textile, apparel & leather goods",Hybrid,Cooperative,2017,8,8,9653860,7,Nyagatare,56,Male,Startup,0.45,Operating
+"Agriculture, Forestry & Fishing",Fishing & aquaculture,Service-based,Limited Company,2022,3,3,2394576,35,Kigali,51,Female,Micro-enterprise,0.36,Operating
+Financial & Insurance Services,"Capital markets, investment funds",Hybrid,Cooperative,2009,16,0,454090,48,Rwamagana,38,Male,Startup,0.45,Operating
+Manufacturing,"Textile, apparel & leather goods",Service-based,Limited Company,2008,17,17,6632763,11,Huye,38,Female,Micro-enterprise,0.08,Closed
+Wholesale & Retail Trade,E-commerce & distribution,Service-based,Cooperative,2009,16,16,2131513,18,Musanze,49,Female,Startup,-0.05,Operating
+Manufacturing,Pharmaceutical & medical products,Hybrid,Cooperative,2005,20,20,16150996,20,Rwamagana,61,Female,Micro-enterprise,-0.02,Closed
+Energy & Utilities,Water supply & waste management,Hybrid,Sole Proprietorship,2025,0,0,846599,43,Huye,52,Male,SME,0.12,Operating
+Mining & Quarrying,"Quarrying (stone, sand, gravel)",Service-based,Limited Company,2021,4,4,4858163,10,Kigali,64,Female,Micro-enterprise,0.25,Operating
+Professional & Business Services,"Legal, auditing & accounting firms",Hybrid,Cooperative,2014,11,11,6452349,24,Rwamagana,64,Female,SME,0.31,Operating
+Hospitality & Tourism,"Hotels, lodges, restaurants, cafés",Service-based,Limited Company,2007,18,18,5523000,31,Huye,50,Female,Startup,0.47,Operating
+"Arts, Entertainment & Recreation",Gaming & leisure activities,Hybrid,Cooperative,2022,3,3,4841207,39,Kigali,28,Male,SME,-0.14,Operating
+Transport & Logistics,"Aviation (RwandAir, airport services)",Service-based,Limited Company,2012,13,13,7365167,17,Huye,42,Male,Micro-enterprise,0.29,Operating
+"Agriculture, Forestry & Fishing","Crop farming (coffee, tea, maize, rice, beans, vegetables, fruits)",Hybrid,Cooperative,2024,1,1,3626835,28,Rwamagana,41,Female,SME,0.38,Operating
+Education & Training,Universities & research centers,Hybrid,Partnership,2008,17,17,1717559,6,Nyagatare,45,Female,SME,0.42,Operating
+Professional & Business Services,"Advertising, media & marketing",Hybrid,Cooperative,2023,2,2,4910841,40,Rwamagana,29,Male,Startup,0.17,Operating
+Education & Training,EdTech platforms,Service-based,Limited Company,2010,15,0,230451,45,Rubavu,32,Female,Micro-enterprise,0.33,Operating
+Energy & Utilities,"Electricity (hydropower, solar, methane gas, peat, biomass)",Service-based,Limited Company,2020,5,5,8200302,23,Musanze,27,Female,SME,-0.06,Operating
+Information & Communication Technology (ICT),Data centers & cloud services,Product-based,Sole Proprietorship,2003,22,22,5483147,37,Rubavu,23,Female,Startup,-0.18,Operating
+Manufacturing,"Chemicals, plastics, rubber, paints",Hybrid,Sole Proprietorship,2023,2,2,18007544,36,Rusizi,31,Female,Micro-enterprise,0.18,Closed
+Health & Social Work,"Hospitals, clinics, pharmacies",Hybrid,Sole Proprietorship,2020,5,5,7059376,17,Rwamagana,29,Male,Startup,-0.09,Operating
+Information & Communication Technology (ICT),Data centers & cloud services,Product-based,Cooperative,2003,22,22,1261034,5,Rubavu,46,Male,Micro-enterprise,0.27,Operating
+Wholesale & Retail Trade,E-commerce & distribution,Hybrid,Sole Proprietorship,2011,14,0,3471697,4,Rubavu,46,Female,Startup,0,Operating
+"Arts, Entertainment & Recreation",Sports clubs & fitness centers,Service-based,Cooperative,2017,8,8,5112715,36,Rwamagana,40,Female,SME,0.02,Operating
+Public Administration & Defense,Security & defense institutions,Service-based,Cooperative,2023,2,2,6977900,2,Kigali,18,Female,Micro-enterprise,-0.16,Closed
+Wholesale & Retail Trade,Motor vehicle & motorcycle trade,Service-based,Limited Company,2001,24,24,924871,44,Musanze,43,Female,Micro-enterprise,-0.18,Operating
+Professional & Business Services,"Advertising, media & marketing",Service-based,Cooperative,2014,11,11,3150385,26,Kigali,35,Male,SME,0.38,Operating
+Professional & Business Services,"Advertising, media & marketing",Product-based,Partnership,2022,3,3,5213384,19,Kigali,25,Male,Micro-enterprise,0.41,Operating
+Information & Communication Technology (ICT),"FinTech (mobile money, digital banking solutions)",Hybrid,Cooperative,2012,13,13,7263597,4,Rwamagana,52,Male,Startup,0.03,Operating
+Energy & Utilities,Renewable energy technologies,Service-based,Sole Proprietorship,2020,5,5,4448019,23,Kigali,19,Male,Micro-enterprise,0.36,Operating
+Professional & Business Services,"Advertising, media & marketing",Product-based,Sole Proprietorship,2001,24,24,5456042,34,Rwamagana,50,Female,Startup,0.46,Operating
+Construction & Real Estate,Road construction & maintenance,Service-based,Partnership,2007,18,18,19848782,9,Musanze,46,Male,SME,0.36,Operating
+Public Administration & Defense,Government services,Hybrid,Partnership,2014,11,11,788429,13,Rwamagana,20,Female,Micro-enterprise,0.2,Operating
+Manufacturing,"Textile, apparel & leather goods",Service-based,Cooperative,2004,21,21,14976674,28,Kigali,22,Female,SME,0.29,Operating
+Information & Communication Technology (ICT),"Telecommunications (MTN, Airtel, broadband providers)",Service-based,Partnership,2006,19,19,3794550,9,Kigali,36,Male,Micro-enterprise,-0.14,Operating
+Professional & Business Services,"Advertising, media & marketing",Hybrid,Sole Proprietorship,2006,19,19,8873924,4,Musanze,28,Male,SME,0.22,Operating
+Education & Training,Universities & research centers,Hybrid,Cooperative,2022,3,0,1679760,38,Rusizi,43,Female,SME,0.18,Operating
+Health & Social Work,Health insurance providers,Service-based,Limited Company,2010,15,15,5654735,12,Huye,27,Male,SME,-0.11,Operating
+Nonprofit & Community Organizations,Religious organizations,Service-based,Limited Company,2002,23,23,4464710,4,Kigali,49,Female,SME,0.13,Closed
+Energy & Utilities,Renewable energy technologies,Service-based,Sole Proprietorship,2013,12,12,6840978,11,Kigali,26,Female,Micro-enterprise,-0.17,Closed
+Manufacturing,"Textile, apparel & leather goods",Service-based,Sole Proprietorship,2022,3,3,14830934,40,Rusizi,18,Male,Startup,0.43,Operating
+Information & Communication Technology (ICT),"Telecommunications (MTN, Airtel, broadband providers)",Service-based,Partnership,2020,5,5,2212661,41,Rwamagana,64,Male,SME,0.25,Operating
+Manufacturing,"Metal fabrication, machinery, electrical products",Product-based,Cooperative,2008,17,17,13563921,49,Huye,25,Female,SME,0.11,Operating
+"Agriculture, Forestry & Fishing","Forestry (timber, charcoal, firewood, reforestation)",Product-based,Limited Company,2018,7,7,4524704,34,Kigali,43,Female,Micro-enterprise,0.42,Closed
+Construction & Real Estate,"Architecture, engineering & technical services",Hybrid,Limited Company,2021,4,4,7185824,12,Musanze,30,Male,Micro-enterprise,0.14,Operating
+Financial & Insurance Services,"Insurance (life, health, property, vehicle)",Product-based,Cooperative,2002,23,23,5511734,39,Huye,55,Female,SME,0.23,Operating
+Construction & Real Estate,Building & civil engineering works,Hybrid,Sole Proprietorship,2024,1,1,3486400,26,Nyagatare,56,Male,Startup,-0.01,Operating
+Health & Social Work,NGOs & community health services,Hybrid,Partnership,2009,16,16,8027213,5,Rubavu,42,Female,Startup,0.33,Operating
+Public Administration & Defense,Government services,Product-based,Sole Proprietorship,2009,16,16,8832705,32,Kigali,56,Female,Micro-enterprise,0.41,Closed
+Professional & Business Services,Security services,Service-based,Sole Proprietorship,2025,0,0,6999264,4,Nyagatare,43,Male,SME,0.13,Closed
+Information & Communication Technology (ICT),Data centers & cloud services,Product-based,Limited Company,2011,14,14,4864759,42,Rusizi,57,Male,Startup,0.16,Operating
+Information & Communication Technology (ICT),"Telecommunications (MTN, Airtel, broadband providers)",Service-based,Sole Proprietorship,2018,7,7,8039290,15,Kigali,18,Female,Micro-enterprise,-0.08,Operating
+Wholesale & Retail Trade,"General trade (shops, supermarkets, open markets)",Product-based,Limited Company,2019,6,6,4621044,31,Huye,26,Female,SME,-0.13,Operating
+Hospitality & Tourism,Conference & events (MICE industry),Product-based,Partnership,2012,13,13,5654274,1,Rubavu,41,Female,Micro-enterprise,0.35,Closed
+Manufacturing,Wood products & furniture,Hybrid,Partnership,2025,0,0,19805370,8,Rubavu,62,Female,SME,0.46,Operating
+Manufacturing,Wood products & furniture,Product-based,Partnership,2020,5,5,3562479,28,Huye,24,Female,SME,-0.13,Operating
+Wholesale & Retail Trade,"General trade (shops, supermarkets, open markets)",Product-based,Partnership,2000,25,25,1850390,3,Rusizi,19,Male,Startup,0.08,Operating
+Nonprofit & Community Organizations,Religious organizations,Service-based,Cooperative,2013,12,0,2658768,18,Rwamagana,53,Male,SME,0,Operating
+Energy & Utilities,Water supply & waste management,Service-based,Partnership,2014,11,11,16540478,31,Kigali,26,Male,Micro-enterprise,0.42,Operating
+Information & Communication Technology (ICT),"Software development, IT services & startups",Service-based,Sole Proprietorship,2018,7,7,7374049,5,Nyagatare,34,Female,Startup,-0.03,Operating
+Wholesale & Retail Trade,"General trade (shops, supermarkets, open markets)",Product-based,Sole Proprietorship,2002,23,23,1578852,2,Rusizi,29,Male,Startup,0.39,Operating
+Transport & Logistics,"Aviation (RwandAir, airport services)",Hybrid,Partnership,2024,1,1,1917839,15,Musanze,55,Female,SME,0.37,Operating
+Construction & Real Estate,Road construction & maintenance,Hybrid,Partnership,2015,10,10,6432955,21,Huye,37,Male,Micro-enterprise,0.29,Operating
+Professional & Business Services,"Advertising, media & marketing",Product-based,Cooperative,2025,0,0,7381714,33,Rusizi,46,Female,Startup,-0.12,Operating
+Public Administration & Defense,Security & defense institutions,Service-based,Limited Company,2005,20,20,3262031,46,Rubavu,38,Female,Micro-enterprise,-0.03,Operating
+Public Administration & Defense,Security & defense institutions,Hybrid,Cooperative,2024,1,1,1029424,22,Rubavu,32,Male,Startup,0.3,Operating
+"Agriculture, Forestry & Fishing","Livestock farming (cattle, goats, poultry, pigs, rabbits, fish)",Hybrid,Cooperative,2015,10,10,4347050,24,Rwamagana,30,Male,Micro-enterprise,0.03,Operating
+Construction & Real Estate,Road construction & maintenance,Product-based,Limited Company,2012,13,13,10114436,7,Nyagatare,52,Female,SME,0.32,Operating
+Hospitality & Tourism,Conference & events (MICE industry),Product-based,Cooperative,2009,16,0,993339,18,Musanze,34,Female,Micro-enterprise,0.33,Operating
+Health & Social Work,"Hospitals, clinics, pharmacies",Service-based,Cooperative,2016,9,9,1312055,30,Rusizi,50,Female,Startup,0.44,Operating
+"Arts, Entertainment & Recreation",Sports clubs & fitness centers,Service-based,Sole Proprietorship,2016,9,9,3713802,8,Huye,20,Female,Startup,0.49,Operating
+Hospitality & Tourism,Travel agencies & tour operators,Product-based,Cooperative,2012,13,0,3691062,22,Huye,50,Female,SME,0.07,Operating
+Construction & Real Estate,Real estate development & property management,Product-based,Partnership,2004,21,21,6142483,26,Rusizi,35,Female,Micro-enterprise,0.08,Operating
+Transport & Logistics,Rail (future projects),Hybrid,Cooperative,2021,4,4,6568800,19,Kigali,54,Male,Micro-enterprise,0.36,Operating
+Construction & Real Estate,"Architecture, engineering & technical services",Hybrid,Partnership,2013,12,0,14323618,43,Musanze,39,Female,SME,-0.16,Operating
+Energy & Utilities,Renewable energy technologies,Hybrid,Cooperative,2007,18,18,9696385,48,Rusizi,39,Female,Startup,0.05,Closed
+Manufacturing,"Metal fabrication, machinery, electrical products",Service-based,Sole Proprietorship,2024,1,1,14320565,37,Nyagatare,35,Male,Micro-enterprise,0.5,Operating
+Construction & Real Estate,Road construction & maintenance,Product-based,Cooperative,2002,23,0,15001511,42,Musanze,25,Female,Startup,-0.1,Operating
+Professional & Business Services,"Advertising, media & marketing",Product-based,Sole Proprietorship,2005,20,20,4642565,25,Huye,56,Female,Startup,-0.17,Operating
+Mining & Quarrying,"Tin, tungsten, tantalum (3Ts)",Service-based,Cooperative,2017,8,8,10076701,46,Rwamagana,63,Male,SME,-0.1,Operating
+Hospitality & Tourism,Conference & events (MICE industry),Service-based,Partnership,2021,4,4,7792948,14,Kigali,60,Male,SME,-0.03,Operating
+Health & Social Work,Health insurance providers,Service-based,Partnership,2016,9,0,3381904,12,Nyagatare,46,Male,Micro-enterprise,0.13,Operating
+Construction & Real Estate,Real estate development & property management,Product-based,Limited Company,2009,16,16,1900013,38,Nyagatare,59,Male,SME,0.12,Operating
+Mining & Quarrying,Gold,Product-based,Cooperative,2011,14,14,6619237,31,Rubavu,47,Male,Micro-enterprise,-0.15,Operating
+"Arts, Entertainment & Recreation","Music, events & performing arts",Product-based,Partnership,2002,23,23,3089773,36,Musanze,38,Male,Startup,0.18,Closed
+Public Administration & Defense,Security & defense institutions,Hybrid,Sole Proprietorship,2011,14,14,757822,16,Nyagatare,54,Female,Startup,-0.01,Operating
+Energy & Utilities,Renewable energy technologies,Service-based,Sole Proprietorship,2001,24,24,13561323,36,Rwamagana,19,Female,Micro-enterprise,0.04,Operating
+Transport & Logistics,Rail (future projects),Product-based,Cooperative,2018,7,7,5451664,39,Huye,59,Female,Startup,0.18,Operating
+"Agriculture, Forestry & Fishing",Fishing & aquaculture,Product-based,Partnership,2002,23,23,415018,5,Kigali,55,Male,Startup,0.34,Closed
+Professional & Business Services,"Legal, auditing & accounting firms",Product-based,Limited Company,2024,1,1,7857139,17,Rwamagana,62,Female,SME,0.34,Closed
+Hospitality & Tourism,Cultural & eco-tourism services,Hybrid,Sole Proprietorship,2012,13,13,2935211,9,Huye,22,Female,SME,0.1,Operating
+Professional & Business Services,Management consulting & advisory,Service-based,Limited Company,2000,25,25,7557997,28,Musanze,22,Male,SME,0.22,Operating
+Wholesale & Retail Trade,"General trade (shops, supermarkets, open markets)",Hybrid,Partnership,2014,11,11,2158067,20,Nyagatare,55,Male,SME,0.3,Operating
+Education & Training,"Primary, secondary & tertiary schools",Hybrid,Partnership,2019,6,6,1994053,24,Musanze,54,Male,SME,0.29,Operating
+Wholesale & Retail Trade,"General trade (shops, supermarkets, open markets)",Product-based,Partnership,2010,15,15,4378781,10,Musanze,19,Female,Startup,-0.12,Operating
+Health & Social Work,"Hospitals, clinics, pharmacies",Hybrid,Cooperative,2007,18,18,5062659,36,Musanze,36,Female,SME,0.29,Operating
+Financial & Insurance Services,"Capital markets, investment funds",Service-based,Partnership,2015,10,10,3385282,30,Rwamagana,44,Male,Startup,-0.01,Closed
+Manufacturing,"Food & beverages processing (dairy, breweries, bakeries, milling)",Service-based,Cooperative,2013,12,12,15618217,25,Rwamagana,46,Male,SME,-0.13,Closed
+Mining & Quarrying,"Quarrying (stone, sand, gravel)",Hybrid,Cooperative,2002,23,23,5407067,12,Huye,48,Male,Micro-enterprise,0.32,Operating
+Financial & Insurance Services,"Capital markets, investment funds",Product-based,Sole Proprietorship,2017,8,8,2878323,6,Huye,63,Female,Micro-enterprise,0.06,Operating
+Wholesale & Retail Trade,E-commerce & distribution,Product-based,Partnership,2023,2,2,1059305,39,Rusizi,41,Female,Startup,0.35,Operating
+Education & Training,Vocational & technical training (TVET),Product-based,Limited Company,2007,18,18,3598999,47,Nyagatare,31,Male,SME,-0.15,Operating
+Transport & Logistics,"Aviation (RwandAir, airport services)",Service-based,Partnership,2019,6,6,8531621,11,Nyagatare,46,Male,Micro-enterprise,0.4,Operating
+Health & Social Work,NGOs & community health services,Product-based,Cooperative,2009,16,16,5405273,10,Musanze,28,Female,Startup,0.19,Operating
+Transport & Logistics,"Aviation (RwandAir, airport services)",Product-based,Limited Company,2015,10,10,8632172,12,Rusizi,52,Male,SME,0.34,Operating
+Construction & Real Estate,Road construction & maintenance,Product-based,Sole Proprietorship,2009,16,16,1096030,21,Rusizi,20,Female,SME,0.33,Closed
+Energy & Utilities,"Electricity (hydropower, solar, methane gas, peat, biomass)",Hybrid,Limited Company,2023,2,2,12298263,32,Rwamagana,21,Female,SME,0.2,Operating
+"Agriculture, Forestry & Fishing",Fishing & aquaculture,Service-based,Partnership,2018,7,0,4607649,47,Kigali,56,Male,Micro-enterprise,0.44,Closed
+Energy & Utilities,"Electricity (hydropower, solar, methane gas, peat, biomass)",Product-based,Sole Proprietorship,2019,6,6,15320613,39,Rusizi,30,Male,Micro-enterprise,0.46,Operating
+Financial & Insurance Services,"Insurance (life, health, property, vehicle)",Product-based,Partnership,2014,11,11,3519078,28,Rusizi,28,Female,Startup,0.2,Operating
+Energy & Utilities,Water supply & waste management,Product-based,Sole Proprietorship,2008,17,17,13091599,26,Nyagatare,54,Male,Startup,-0.01,Operating
+"Agriculture, Forestry & Fishing","Forestry (timber, charcoal, firewood, reforestation)",Product-based,Limited Company,2022,3,3,380966,17,Rwamagana,54,Female,Startup,0.11,Operating
+"Agriculture, Forestry & Fishing",Fishing & aquaculture,Product-based,Partnership,2024,1,1,3079301,43,Rubavu,24,Female,SME,-0.09,Operating
+Hospitality & Tourism,Travel agencies & tour operators,Product-based,Cooperative,2011,14,14,3155555,2,Rusizi,45,Female,Micro-enterprise,0.36,Operating
+Nonprofit & Community Organizations,NGOs & cooperatives,Hybrid,Partnership,2022,3,3,9655160,17,Rwamagana,35,Female,Micro-enterprise,0.46,Closed
+Public Administration & Defense,Government services,Product-based,Cooperative,2019,6,6,2675017,6,Nyagatare,27,Female,SME,0.3,Operating
+Transport & Logistics,Rail (future projects),Service-based,Cooperative,2015,10,0,7247961,24,Kigali,30,Male,Startup,0.18,Operating
+Financial & Insurance Services,Banking (commercial & microfinance),Hybrid,Limited Company,2005,20,20,1178067,33,Kigali,54,Female,Micro-enterprise,0.34,Operating
+"Arts, Entertainment & Recreation",Gaming & leisure activities,Service-based,Limited Company,2021,4,4,8190703,4,Rubavu,62,Female,SME,0.47,Operating
+Hospitality & Tourism,Travel agencies & tour operators,Product-based,Sole Proprietorship,2016,9,9,7114079,8,Huye,39,Female,SME,-0.15,Operating
+Education & Training,EdTech platforms,Service-based,Limited Company,2000,25,25,3944964,45,Kigali,33,Male,Startup,0.27,Operating
+Mining & Quarrying,"Quarrying (stone, sand, gravel)",Hybrid,Limited Company,2021,4,4,3238013,42,Rubavu,39,Male,Micro-enterprise,0.41,Operating
+Construction & Real Estate,Real estate development & property management,Service-based,Cooperative,2009,16,16,8818887,36,Nyagatare,20,Male,SME,-0.08,Operating
+Mining & Quarrying,"Tin, tungsten, tantalum (3Ts)",Service-based,Sole Proprietorship,2023,2,2,12204658,48,Rusizi,23,Male,SME,0.27,Operating
+Professional & Business Services,"Legal, auditing & accounting firms",Hybrid,Partnership,2023,2,2,7145983,14,Huye,54,Male,Micro-enterprise,0.4,Operating
+Transport & Logistics,"Road transport (bus, taxi, moto, trucks)",Hybrid,Cooperative,2017,8,8,6415039,46,Nyagatare,38,Female,SME,0.24,Closed
+Nonprofit & Community Organizations,Religious organizations,Hybrid,Partnership,2016,9,9,1041228,36,Rwamagana,53,Male,Micro-enterprise,0.03,Operating
+Financial & Insurance Services,"Insurance (life, health, property, vehicle)",Hybrid,Limited Company,2000,25,25,9027849,19,Rusizi,62,Female,Startup,0.03,Operating
+Education & Training,Vocational & technical training (TVET),Product-based,Partnership,2025,0,0,334748,14,Musanze,25,Male,SME,-0.07,Operating
+Education & Training,"Primary, secondary & tertiary schools",Service-based,Partnership,2017,8,8,1086063,1,Rusizi,34,Male,Micro-enterprise,-0.13,Operating
+Energy & Utilities,Renewable energy technologies,Hybrid,Partnership,2009,16,16,17107763,48,Kigali,28,Male,Micro-enterprise,0.14,Operating
+Manufacturing,Wood products & furniture,Product-based,Limited Company,2017,8,8,18194546,19,Kigali,63,Female,Startup,0.12,Operating
+Transport & Logistics,"Road transport (bus, taxi, moto, trucks)",Product-based,Partnership,2008,17,17,692800,2,Rubavu,21,Female,Startup,0.07,Operating
+Professional & Business Services,"Legal, auditing & accounting firms",Hybrid,Limited Company,2010,15,15,8962863,22,Musanze,55,Male,Micro-enterprise,-0.03,Operating
+Manufacturing,"Metal fabrication, machinery, electrical products",Service-based,Limited Company,2018,7,0,1090887,41,Musanze,18,Male,Startup,-0.18,Operating
+Financial & Insurance Services,"Capital markets, investment funds",Product-based,Partnership,2024,1,1,3329450,26,Musanze,64,Female,SME,-0.03,Operating
+Wholesale & Retail Trade,Motor vehicle & motorcycle trade,Product-based,Cooperative,2021,4,4,2751155,5,Kigali,43,Male,Startup,0.13,Closed
+Wholesale & Retail Trade,Motor vehicle & motorcycle trade,Product-based,Sole Proprietorship,2002,23,23,4174048,30,Huye,23,Male,Micro-enterprise,0.1,Operating
+Financial & Insurance Services,Banking (commercial & microfinance),Hybrid,Sole Proprietorship,2018,7,7,2069969,41,Musanze,27,Female,SME,-0.1,Operating
+Health & Social Work,NGOs & community health services,Product-based,Partnership,2007,18,18,2281647,31,Rusizi,55,Male,Startup,0,Operating
+Wholesale & Retail Trade,"General trade (shops, supermarkets, open markets)",Product-based,Partnership,2020,5,5,4026170,7,Rwamagana,64,Male,Micro-enterprise,-0.02,Closed
+"Agriculture, Forestry & Fishing",Fishing & aquaculture,Hybrid,Partnership,2018,7,7,747293,27,Musanze,29,Female,Micro-enterprise,-0.15,Closed
+"Agriculture, Forestry & Fishing",Fishing & aquaculture,Product-based,Sole Proprietorship,2009,16,16,3222682,11,Rusizi,38,Male,Micro-enterprise,0.02,Operating
+"Agriculture, Forestry & Fishing",Fishing & aquaculture,Hybrid,Limited Company,2025,0,0,4077777,5,Nyagatare,55,Male,Micro-enterprise,0.05,Operating
+Energy & Utilities,Water supply & waste management,Product-based,Cooperative,2013,12,12,14004914,5,Rusizi,58,Female,SME,0.31,Operating
+Financial & Insurance Services,"Insurance (life, health, property, vehicle)",Service-based,Cooperative,2012,13,13,9948464,22,Huye,30,Female,Micro-enterprise,0.01,Operating
+Education & Training,Vocational & technical training (TVET),Product-based,Sole Proprietorship,2022,3,3,4662109,35,Rusizi,34,Female,SME,0.12,Closed
+Public Administration & Defense,Government services,Hybrid,Limited Company,2008,17,0,6685507,43,Rusizi,34,Female,Micro-enterprise,0.26,Operating
+Professional & Business Services,"Legal, auditing & accounting firms",Product-based,Cooperative,2024,1,1,2899959,29,Rwamagana,34,Male,Startup,0.36,Operating
+Wholesale & Retail Trade,E-commerce & distribution,Hybrid,Limited Company,2022,3,3,3786466,42,Kigali,58,Male,Micro-enterprise,0.03,Operating
+Professional & Business Services,"Legal, auditing & accounting firms",Product-based,Partnership,2018,7,7,3902847,7,Rusizi,55,Male,Startup,0.1,Operating
+Financial & Insurance Services,Banking (commercial & microfinance),Product-based,Partnership,2008,17,17,4482345,11,Rusizi,24,Male,Startup,-0.2,Operating
+Manufacturing,Pharmaceutical & medical products,Product-based,Sole Proprietorship,2004,21,21,12594738,28,Rusizi,27,Female,SME,0.09,Operating
+Financial & Insurance Services,"Capital markets, investment funds",Product-based,Cooperative,2007,18,18,613340,35,Huye,43,Male,Startup,0.13,Operating
+Wholesale & Retail Trade,Motor vehicle & motorcycle trade,Product-based,Sole Proprietorship,2021,4,4,308753,21,Rwamagana,60,Male,Micro-enterprise,0.34,Operating
+Wholesale & Retail Trade,E-commerce & distribution,Product-based,Limited Company,2005,20,20,1374856,28,Musanze,44,Male,Micro-enterprise,-0.1,Operating
+Information & Communication Technology (ICT),"FinTech (mobile money, digital banking solutions)",Hybrid,Sole Proprietorship,2015,10,10,9734939,48,Musanze,42,Female,SME,0.24,Operating
+Education & Training,Universities & research centers,Hybrid,Limited Company,2020,5,5,1835872,28,Musanze,29,Female,SME,0.16,Operating
+Manufacturing,"Metal fabrication, machinery, electrical products",Product-based,Cooperative,2024,1,0,5975235,25,Rubavu,60,Female,Micro-enterprise,-0.04,Closed
+Financial & Insurance Services,"Capital markets, investment funds",Hybrid,Cooperative,2005,20,20,2547814,49,Huye,33,Male,Micro-enterprise,-0.08,Closed
+Financial & Insurance Services,Banking (commercial & microfinance),Product-based,Partnership,2002,23,23,9486657,3,Huye,40,Female,Startup,-0.13,Closed
+Transport & Logistics,Rail (future projects),Product-based,Limited Company,2009,16,16,9577314,5,Rusizi,28,Male,Startup,0.22,Closed
+Energy & Utilities,Water supply & waste management,Product-based,Sole Proprietorship,2022,3,3,15600980,24,Nyagatare,59,Male,Micro-enterprise,-0.14,Operating
+Public Administration & Defense,Government services,Service-based,Sole Proprietorship,2021,4,4,4992097,34,Nyagatare,63,Female,Micro-enterprise,0.23,Operating
+Professional & Business Services,"Legal, auditing & accounting firms",Hybrid,Sole Proprietorship,2002,23,23,5210981,6,Rubavu,56,Male,SME,0.36,Operating
+Nonprofit & Community Organizations,Religious organizations,Product-based,Partnership,2017,8,0,7518439,5,Nyagatare,59,Male,Micro-enterprise,-0.17,Operating
+Professional & Business Services,"Legal, auditing & accounting firms",Hybrid,Cooperative,2021,4,4,3231387,34,Rusizi,47,Male,Startup,0.15,Operating
+Public Administration & Defense,Security & defense institutions,Service-based,Sole Proprietorship,2016,9,9,2988621,47,Rwamagana,46,Male,SME,0.04,Operating
+"Agriculture, Forestry & Fishing","Forestry (timber, charcoal, firewood, reforestation)",Service-based,Partnership,2014,11,11,3259412,9,Huye,39,Female,Startup,-0.09,Operating
+Transport & Logistics,Rail (future projects),Service-based,Cooperative,2021,4,4,9917951,34,Rubavu,23,Female,SME,-0.14,Operating
+Public Administration & Defense,Government services,Hybrid,Limited Company,2006,19,19,5965903,36,Rubavu,43,Female,SME,0.15,Operating
+Manufacturing,"Chemicals, plastics, rubber, paints",Service-based,Partnership,2001,24,0,9280432,18,Nyagatare,20,Male,Micro-enterprise,-0.18,Operating
+Transport & Logistics,Rail (future projects),Hybrid,Partnership,2021,4,4,6161561,11,Kigali,47,Male,SME,0.28,Closed
+"Arts, Entertainment & Recreation",Sports clubs & fitness centers,Product-based,Limited Company,2012,13,13,5872075,46,Rubavu,35,Female,Micro-enterprise,0.29,Operating
+"Arts, Entertainment & Recreation",Sports clubs & fitness centers,Service-based,Cooperative,2020,5,0,2748359,21,Nyagatare,50,Female,SME,0.36,Operating
+Transport & Logistics,"Aviation (RwandAir, airport services)",Service-based,Partnership,2018,7,7,5282011,33,Nyagatare,38,Female,SME,0.36,Operating
+Mining & Quarrying,"Quarrying (stone, sand, gravel)",Product-based,Limited Company,2004,21,21,12758047,7,Rubavu,27,Male,SME,0.33,Operating
+Information & Communication Technology (ICT),Data centers & cloud services,Hybrid,Limited Company,2004,21,21,9362414,10,Rusizi,34,Female,SME,-0.12,Operating
+Wholesale & Retail Trade,"General trade (shops, supermarkets, open markets)",Product-based,Sole Proprietorship,2015,10,10,2334013,31,Rubavu,19,Female,Startup,0.04,Operating
+Nonprofit & Community Organizations,Charities & associations,Product-based,Limited Company,2002,23,23,9295523,42,Rwamagana,32,Male,SME,0.33,Operating
+Construction & Real Estate,Real estate development & property management,Hybrid,Cooperative,2016,9,9,3716645,40,Kigali,50,Male,Micro-enterprise,-0.14,Operating
+Health & Social Work,Health insurance providers,Product-based,Partnership,2004,21,21,9385163,44,Musanze,20,Female,Startup,0.38,Operating
+Energy & Utilities,"Electricity (hydropower, solar, methane gas, peat, biomass)",Service-based,Limited Company,2014,11,0,15433214,13,Rwamagana,19,Male,Startup,0.1,Operating
+Wholesale & Retail Trade,E-commerce & distribution,Service-based,Sole Proprietorship,2022,3,3,4771002,10,Kigali,41,Female,Micro-enterprise,-0.16,Closed
+Nonprofit & Community Organizations,NGOs & cooperatives,Product-based,Partnership,2002,23,23,4974359,44,Rusizi,36,Female,Micro-enterprise,0.38,Operating
+Nonprofit & Community Organizations,Charities & associations,Hybrid,Sole Proprietorship,2017,8,8,837851,35,Kigali,24,Female,Startup,0.03,Operating
+"Arts, Entertainment & Recreation",Gaming & leisure activities,Hybrid,Cooperative,2018,7,7,5279475,36,Nyagatare,35,Male,Startup,-0.06,Operating
+Construction & Real Estate,"Architecture, engineering & technical services",Hybrid,Limited Company,2019,6,6,13600748,34,Rwamagana,49,Male,Startup,0.49,Operating
+Energy & Utilities,Renewable energy technologies,Service-based,Partnership,2017,8,8,15528732,7,Kigali,52,Female,SME,-0.02,Operating
+Construction & Real Estate,Road construction & maintenance,Product-based,Partnership,2014,11,11,1868285,23,Rwamagana,57,Female,Micro-enterprise,-0.07,Operating
+Hospitality & Tourism,"Hotels, lodges, restaurants, cafés",Hybrid,Partnership,2022,3,3,3511072,27,Kigali,22,Male,Startup,-0.05,Operating
+Information & Communication Technology (ICT),"Telecommunications (MTN, Airtel, broadband providers)",Service-based,Limited Company,2023,2,2,421337,9,Rwamagana,31,Female,SME,0.37,Closed
+Construction & Real Estate,Road construction & maintenance,Hybrid,Sole Proprietorship,2009,16,16,3272788,28,Rwamagana,23,Male,Micro-enterprise,-0.19,Operating
+Construction & Real Estate,Building & civil engineering works,Service-based,Cooperative,2015,10,10,5494403,28,Rusizi,33,Female,SME,0.31,Operating
+Education & Training,Vocational & technical training (TVET),Service-based,Limited Company,2013,12,0,471268,5,Rusizi,43,Female,Startup,0.12,Operating
+"Agriculture, Forestry & Fishing","Forestry (timber, charcoal, firewood, reforestation)",Service-based,Sole Proprietorship,2014,11,11,3784170,43,Huye,27,Female,Micro-enterprise,-0.11,Operating
+Hospitality & Tourism,"Hotels, lodges, restaurants, cafés",Service-based,Limited Company,2018,7,7,1612842,38,Nyagatare,23,Female,Startup,0.35,Operating
+Financial & Insurance Services,Savings & credit cooperatives (SACCOs),Product-based,Limited Company,2017,8,8,7571448,7,Rusizi,27,Male,Startup,0.16,Closed
+Education & Training,Universities & research centers,Product-based,Sole Proprietorship,2010,15,15,1994977,19,Rusizi,20,Female,Micro-enterprise,-0.03,Operating
+Professional & Business Services,Security services,Service-based,Sole Proprietorship,2000,25,25,8805130,1,Nyagatare,63,Male,Micro-enterprise,0.17,Operating
+Financial & Insurance Services,Banking (commercial & microfinance),Service-based,Sole Proprietorship,2011,14,14,5070510,13,Kigali,34,Male,Startup,0.16,Operating
+Mining & Quarrying,"Tin, tungsten, tantalum (3Ts)",Service-based,Cooperative,2017,8,0,12852892,48,Kigali,29,Male,Micro-enterprise,-0.14,Operating
+"Agriculture, Forestry & Fishing",Fishing & aquaculture,Product-based,Partnership,2006,19,19,2688982,30,Rubavu,47,Male,Micro-enterprise,0.23,Operating
+Construction & Real Estate,Road construction & maintenance,Service-based,Sole Proprietorship,2017,8,8,10570043,4,Kigali,47,Female,SME,0.46,Operating
+Public Administration & Defense,Government services,Hybrid,Partnership,2001,24,24,8230701,2,Huye,59,Male,Micro-enterprise,-0.15,Operating
+Education & Training,EdTech platforms,Hybrid,Cooperative,2014,11,11,2329129,16,Musanze,61,Female,Micro-enterprise,-0.18,Operating
+Transport & Logistics,"Aviation (RwandAir, airport services)",Service-based,Sole Proprietorship,2022,3,3,7844749,28,Rubavu,61,Female,SME,0.24,Operating
+Health & Social Work,Health insurance providers,Service-based,Cooperative,2004,21,21,583517,32,Rusizi,64,Male,SME,-0.15,Operating
+Mining & Quarrying,"Tin, tungsten, tantalum (3Ts)",Product-based,Sole Proprietorship,2016,9,9,8267161,9,Huye,44,Female,Micro-enterprise,0.04,Operating
+Manufacturing,"Chemicals, plastics, rubber, paints",Service-based,Partnership,2017,8,8,2125537,7,Nyagatare,31,Male,Startup,0.45,Operating
+Manufacturing,"Food & beverages processing (dairy, breweries, bakeries, milling)",Hybrid,Sole Proprietorship,2019,6,6,13619523,24,Rusizi,25,Male,SME,0.16,Operating
+Professional & Business Services,Security services,Service-based,Partnership,2009,16,16,9099466,40,Rusizi,48,Female,Micro-enterprise,0.39,Operating
+Health & Social Work,NGOs & community health services,Hybrid,Partnership,2024,1,0,7515728,31,Rwamagana,60,Male,SME,0.33,Operating
+"Agriculture, Forestry & Fishing",Fishing & aquaculture,Product-based,Limited Company,2014,11,11,2710421,26,Huye,39,Female,SME,-0.04,Operating
+Construction & Real Estate,"Architecture, engineering & technical services",Service-based,Cooperative,2024,1,1,19218002,42,Musanze,22,Male,Startup,0.2,Operating
+Public Administration & Defense,Government services,Hybrid,Partnership,2013,12,12,1209493,28,Nyagatare,37,Female,SME,0,Operating
+Mining & Quarrying,"Quarrying (stone, sand, gravel)",Hybrid,Partnership,2001,24,24,11780297,29,Musanze,64,Male,SME,0.25,Operating
+"Arts, Entertainment & Recreation",Gaming & leisure activities,Hybrid,Partnership,2012,13,13,346107,3,Rwamagana,51,Female,Startup,0.44,Operating
+Professional & Business Services,"Legal, auditing & accounting firms",Hybrid,Partnership,2021,4,4,3030248,45,Rusizi,53,Male,SME,-0.09,Operating
+"Agriculture, Forestry & Fishing","Livestock farming (cattle, goats, poultry, pigs, rabbits, fish)",Product-based,Sole Proprietorship,2002,23,23,4863595,32,Huye,33,Male,SME,-0.14,Operating
+Hospitality & Tourism,Cultural & eco-tourism services,Service-based,Partnership,2023,2,2,4970368,17,Musanze,47,Female,SME,0.45,Operating
+Wholesale & Retail Trade,Motor vehicle & motorcycle trade,Hybrid,Partnership,2015,10,10,1083033,47,Rusizi,63,Female,Micro-enterprise,-0.14,Operating
+Mining & Quarrying,"Quarrying (stone, sand, gravel)",Hybrid,Sole Proprietorship,2017,8,8,8544648,7,Huye,30,Female,Startup,0.36,Operating
+"Agriculture, Forestry & Fishing","Forestry (timber, charcoal, firewood, reforestation)",Product-based,Cooperative,2012,13,13,4823011,3,Huye,34,Male,Startup,-0.08,Closed
+Energy & Utilities,"Electricity (hydropower, solar, methane gas, peat, biomass)",Hybrid,Partnership,2008,17,17,12249618,46,Musanze,54,Male,Startup,0.49,Operating
+Manufacturing,Wood products & furniture,Product-based,Sole Proprietorship,2006,19,19,10189736,28,Rusizi,58,Female,SME,0.16,Operating
+Hospitality & Tourism,"Hotels, lodges, restaurants, cafés",Product-based,Sole Proprietorship,2006,19,0,1356821,25,Musanze,39,Female,Micro-enterprise,0.27,Operating
+Energy & Utilities,Renewable energy technologies,Service-based,Partnership,2016,9,9,8162240,13,Kigali,39,Male,Micro-enterprise,0.15,Operating
+Transport & Logistics,"Road transport (bus, taxi, moto, trucks)",Product-based,Partnership,2010,15,15,8022463,19,Rusizi,51,Male,Micro-enterprise,0.45,Operating
+Hospitality & Tourism,"Hotels, lodges, restaurants, cafés",Product-based,Partnership,2002,23,23,9755390,9,Rubavu,28,Male,SME,-0.04,Operating
+Wholesale & Retail Trade,Motor vehicle & motorcycle trade,Product-based,Cooperative,2006,19,19,4601176,49,Musanze,48,Female,Startup,0.34,Closed
+"Agriculture, Forestry & Fishing","Crop farming (coffee, tea, maize, rice, beans, vegetables, fruits)",Service-based,Sole Proprietorship,2015,10,10,1715960,9,Musanze,59,Female,Micro-enterprise,0.17,Operating
+Education & Training,EdTech platforms,Product-based,Sole Proprietorship,2005,20,20,1759393,19,Rwamagana,51,Male,Startup,0.16,Closed
+Education & Training,Universities & research centers,Service-based,Limited Company,2013,12,12,4702585,40,Nyagatare,23,Female,Micro-enterprise,0.43,Operating
+Wholesale & Retail Trade,"General trade (shops, supermarkets, open markets)",Service-based,Partnership,2006,19,19,4721233,41,Rusizi,51,Female,Micro-enterprise,-0.06,Operating
+Health & Social Work,"Hospitals, clinics, pharmacies",Hybrid,Sole Proprietorship,2023,2,2,7531838,4,Rusizi,39,Male,Micro-enterprise,-0.1,Operating
+Transport & Logistics,"Logistics, warehousing & courier services",Service-based,Partnership,2004,21,21,7316176,33,Rwamagana,50,Female,Startup,0.18,Operating
+Construction & Real Estate,"Architecture, engineering & technical services",Product-based,Partnership,2025,0,0,3071186,3,Rubavu,47,Female,Micro-enterprise,0.28,Operating
+Nonprofit & Community Organizations,Charities & associations,Product-based,Sole Proprietorship,2024,1,1,5768981,20,Nyagatare,22,Male,Startup,-0.01,Operating
+Construction & Real Estate,Road construction & maintenance,Product-based,Partnership,2020,5,5,12769775,49,Nyagatare,28,Female,Micro-enterprise,0.1,Operating
+Professional & Business Services,Security services,Hybrid,Sole Proprietorship,2013,12,0,6201839,31,Musanze,18,Female,SME,-0.02,Operating
+"Arts, Entertainment & Recreation",Sports clubs & fitness centers,Hybrid,Partnership,2004,21,21,9256594,3,Nyagatare,24,Female,Startup,0.03,Operating
+Energy & Utilities,"Electricity (hydropower, solar, methane gas, peat, biomass)",Service-based,Limited Company,2019,6,6,4232420,25,Musanze,55,Female,Startup,0.41,Operating
+Public Administration & Defense,Government services,Service-based,Limited Company,2010,15,15,6905119,44,Rwamagana,19,Female,SME,-0.13,Operating
+Public Administration & Defense,Security & defense institutions,Service-based,Cooperative,2025,0,0,9446406,34,Rwamagana,35,Male,Micro-enterprise,0.21,Closed
+Hospitality & Tourism,Conference & events (MICE industry),Product-based,Sole Proprietorship,2017,8,8,528480,3,Nyagatare,41,Male,Micro-enterprise,0.3,Operating
+Public Administration & Defense,Security & defense institutions,Hybrid,Cooperative,2004,21,0,6715842,2,Rwamagana,38,Male,SME,-0.07,Operating
+Construction & Real Estate,"Architecture, engineering & technical services",Hybrid,Partnership,2002,23,0,3069575,11,Musanze,46,Female,Startup,-0.02,Operating
+Manufacturing,Paper & printing,Hybrid,Sole Proprietorship,2025,0,0,19194899,20,Nyagatare,26,Female,Micro-enterprise,0.33,Operating
+Construction & Real Estate,Road construction & maintenance,Hybrid,Cooperative,2002,23,23,18541835,19,Rusizi,60,Female,Micro-enterprise,0.12,Closed
+Construction & Real Estate,Real estate development & property management,Hybrid,Cooperative,2020,5,5,18455859,3,Nyagatare,53,Female,Startup,0.46,Operating
+Professional & Business Services,"Advertising, media & marketing",Product-based,Sole Proprietorship,2006,19,19,6240676,4,Kigali,53,Male,SME,-0.01,Operating
+Transport & Logistics,"Aviation (RwandAir, airport services)",Product-based,Partnership,2003,22,22,3215704,36,Huye,43,Male,Startup,0,Operating
+Financial & Insurance Services,Banking (commercial & microfinance),Service-based,Cooperative,2021,4,0,6722402,27,Rubavu,23,Male,Startup,0.16,Operating
+Education & Training,EdTech platforms,Product-based,Limited Company,2016,9,9,184912,44,Kigali,24,Male,Micro-enterprise,-0.1,Operating
+Education & Training,Universities & research centers,Product-based,Sole Proprietorship,2004,21,21,3797940,35,Kigali,29,Male,Micro-enterprise,-0.12,Operating
+"Agriculture, Forestry & Fishing","Livestock farming (cattle, goats, poultry, pigs, rabbits, fish)",Product-based,Partnership,2001,24,24,1118322,41,Rwamagana,24,Male,Micro-enterprise,-0.05,Operating
+Manufacturing,Paper & printing,Hybrid,Cooperative,2023,2,2,16873657,8,Kigali,53,Female,SME,0.39,Operating
+Construction & Real Estate,Road construction & maintenance,Product-based,Sole Proprietorship,2022,3,0,8382964,8,Rubavu,45,Female,Startup,0.43,Operating
+Construction & Real Estate,Real estate development & property management,Service-based,Limited Company,2004,21,21,14808920,19,Kigali,55,Female,SME,0.1,Operating
+Public Administration & Defense,Government services,Product-based,Limited Company,2014,11,11,361882,46,Rubavu,34,Female,Startup,-0.15,Operating
+Information & Communication Technology (ICT),"Telecommunications (MTN, Airtel, broadband providers)",Hybrid,Cooperative,2017,8,8,8139998,46,Kigali,36,Female,Micro-enterprise,0.23,Operating
+Energy & Utilities,Renewable energy technologies,Hybrid,Cooperative,2020,5,5,14599535,19,Musanze,41,Male,Startup,0.12,Operating
+Hospitality & Tourism,"Hotels, lodges, restaurants, cafés",Service-based,Limited Company,2023,2,2,7143147,14,Kigali,31,Male,Micro-enterprise,-0.01,Operating
+Energy & Utilities,Renewable energy technologies,Product-based,Cooperative,2021,4,4,6291626,36,Rusizi,29,Male,Micro-enterprise,-0.03,Operating
+Wholesale & Retail Trade,E-commerce & distribution,Service-based,Sole Proprietorship,2004,21,21,4744906,13,Kigali,57,Female,SME,0.24,Operating
+Hospitality & Tourism,Conference & events (MICE industry),Product-based,Limited Company,2024,1,1,4202653,10,Rusizi,41,Female,SME,-0.03,Operating
+"Arts, Entertainment & Recreation","Music, events & performing arts",Product-based,Cooperative,2015,10,0,7211346,3,Kigali,29,Male,SME,0.1,Operating
+Hospitality & Tourism,Cultural & eco-tourism services,Service-based,Limited Company,2018,7,7,8628607,46,Huye,36,Female,Micro-enterprise,0.06,Operating
+Hospitality & Tourism,"Hotels, lodges, restaurants, cafés",Service-based,Limited Company,2004,21,21,3309291,44,Nyagatare,34,Female,Micro-enterprise,0.04,Operating
+Professional & Business Services,Management consulting & advisory,Service-based,Limited Company,2003,22,22,3256458,29,Kigali,19,Female,Micro-enterprise,-0.18,Operating
+Health & Social Work,Health insurance providers,Service-based,Sole Proprietorship,2020,5,5,1665840,42,Rubavu,55,Male,SME,0.08,Operating
+Construction & Real Estate,Real estate development & property management,Hybrid,Cooperative,2015,10,10,19830922,5,Rusizi,24,Male,Micro-enterprise,0.41,Operating
+Public Administration & Defense,Government services,Service-based,Sole Proprietorship,2016,9,9,5425973,5,Kigali,43,Female,Micro-enterprise,-0.02,Operating
+"Agriculture, Forestry & Fishing","Crop farming (coffee, tea, maize, rice, beans, vegetables, fruits)",Hybrid,Limited Company,2000,25,25,3139412,33,Nyagatare,38,Male,SME,-0.01,Operating
+Transport & Logistics,"Aviation (RwandAir, airport services)",Service-based,Cooperative,2007,18,18,6920746,32,Rusizi,26,Male,Micro-enterprise,0.4,Operating
+Information & Communication Technology (ICT),Data centers & cloud services,Product-based,Cooperative,2016,9,0,3133453,13,Rubavu,26,Male,Startup,-0.02,Operating
+Information & Communication Technology (ICT),Data centers & cloud services,Hybrid,Sole Proprietorship,2013,12,12,3386054,38,Rwamagana,33,Female,Micro-enterprise,0.45,Operating
+Education & Training,Universities & research centers,Hybrid,Partnership,2006,19,19,376312,45,Rusizi,25,Male,Micro-enterprise,-0.05,Operating
+Information & Communication Technology (ICT),"Software development, IT services & startups",Service-based,Cooperative,2001,24,24,1814180,7,Rubavu,62,Female,Micro-enterprise,0.12,Closed
+Nonprofit & Community Organizations,Charities & associations,Product-based,Partnership,2012,13,13,8946653,30,Rusizi,27,Female,Micro-enterprise,0.38,Operating
+Information & Communication Technology (ICT),"Telecommunications (MTN, Airtel, broadband providers)",Service-based,Limited Company,2008,17,17,3680137,37,Rusizi,24,Male,SME,-0.18,Operating
+Health & Social Work,"Hospitals, clinics, pharmacies",Hybrid,Cooperative,2005,20,20,3776356,41,Musanze,27,Female,Startup,0.21,Operating
+Nonprofit & Community Organizations,Charities & associations,Hybrid,Limited Company,2005,20,20,9831022,23,Musanze,32,Male,Micro-enterprise,-0.03,Operating
+Construction & Real Estate,"Architecture, engineering & technical services",Service-based,Cooperative,2011,14,0,9495995,43,Huye,22,Male,SME,-0.08,Operating
+Public Administration & Defense,Government services,Product-based,Partnership,2017,8,8,3940125,37,Rusizi,64,Female,Startup,0.22,Operating
+"Arts, Entertainment & Recreation",Sports clubs & fitness centers,Hybrid,Cooperative,2011,14,14,9792290,1,Nyagatare,20,Female,Micro-enterprise,0.12,Operating
+Hospitality & Tourism,"Hotels, lodges, restaurants, cafés",Product-based,Partnership,2013,12,12,4490919,28,Huye,24,Male,SME,0.01,Operating
+Education & Training,Vocational & technical training (TVET),Service-based,Cooperative,2008,17,17,1948397,27,Musanze,53,Male,SME,0.35,Operating
+Manufacturing,Pharmaceutical & medical products,Service-based,Partnership,2006,19,0,3379626,14,Rusizi,41,Female,Startup,0.43,Operating
+Public Administration & Defense,Government services,Product-based,Limited Company,2010,15,15,906152,17,Nyagatare,51,Female,SME,0.23,Closed
+Health & Social Work,NGOs & community health services,Hybrid,Cooperative,2015,10,10,9396112,10,Huye,60,Female,Startup,0.47,Operating
+Hospitality & Tourism,Conference & events (MICE industry),Service-based,Partnership,2018,7,7,5674868,32,Musanze,31,Female,SME,0.48,Operating
+Mining & Quarrying,"Quarrying (stone, sand, gravel)",Service-based,Partnership,2018,7,7,12397479,41,Rubavu,35,Female,Micro-enterprise,-0.04,Closed
+Financial & Insurance Services,"Insurance (life, health, property, vehicle)",Product-based,Limited Company,2011,14,14,5666646,20,Kigali,27,Female,Startup,-0.04,Operating
+Wholesale & Retail Trade,E-commerce & distribution,Hybrid,Cooperative,2018,7,7,705055,5,Rwamagana,30,Female,SME,-0.18,Operating
+Hospitality & Tourism,Cultural & eco-tourism services,Hybrid,Partnership,2019,6,6,6331419,15,Rubavu,48,Male,SME,0.17,Closed
+Financial & Insurance Services,Savings & credit cooperatives (SACCOs),Hybrid,Partnership,2005,20,20,4311741,22,Huye,24,Male,Micro-enterprise,-0.12,Operating
+"Arts, Entertainment & Recreation",Gaming & leisure activities,Product-based,Limited Company,2017,8,8,5707957,45,Nyagatare,29,Male,Micro-enterprise,-0.17,Operating
+Information & Communication Technology (ICT),Data centers & cloud services,Hybrid,Sole Proprietorship,2022,3,0,8040142,23,Rwamagana,22,Female,SME,0.34,Operating
+Wholesale & Retail Trade,E-commerce & distribution,Service-based,Sole Proprietorship,2024,1,1,794994,42,Rubavu,63,Male,Startup,0.36,Operating
+"Arts, Entertainment & Recreation",Gaming & leisure activities,Product-based,Partnership,2025,0,0,4180610,25,Huye,28,Female,SME,0.08,Operating
+Construction & Real Estate,Building & civil engineering works,Hybrid,Sole Proprietorship,2024,1,1,5890531,38,Musanze,19,Male,SME,0.06,Operating
+Transport & Logistics,Rail (future projects),Product-based,Partnership,2012,13,13,3503723,9,Musanze,33,Female,Micro-enterprise,-0.06,Operating
+Nonprofit & Community Organizations,NGOs & cooperatives,Service-based,Partnership,2024,1,1,5924614,37,Musanze,48,Male,SME,0.07,Operating
+Information & Communication Technology (ICT),"Software development, IT services & startups",Hybrid,Limited Company,2017,8,8,2280497,13,Rubavu,45,Male,Micro-enterprise,0.15,Operating
+"Arts, Entertainment & Recreation",Sports clubs & fitness centers,Service-based,Limited Company,2005,20,20,5031067,33,Nyagatare,47,Female,Startup,-0.03,Operating
+Nonprofit & Community Organizations,Religious organizations,Service-based,Cooperative,2015,10,10,4415735,3,Huye,63,Female,SME,0.26,Operating
+Nonprofit & Community Organizations,Religious organizations,Service-based,Partnership,2006,19,19,5931092,1,Musanze,45,Male,Startup,0.06,Operating
+Manufacturing,"Chemicals, plastics, rubber, paints",Hybrid,Partnership,2014,11,11,8263204,36,Huye,39,Female,SME,0.4,Operating
+Construction & Real Estate,"Architecture, engineering & technical services",Hybrid,Limited Company,2005,20,20,7247083,49,Rwamagana,29,Male,Startup,0.34,Operating
+Mining & Quarrying,"Tin, tungsten, tantalum (3Ts)",Product-based,Cooperative,2025,0,0,17008711,39,Rwamagana,64,Male,Startup,0.29,Operating
+Transport & Logistics,"Road transport (bus, taxi, moto, trucks)",Service-based,Partnership,2023,2,2,1769943,12,Nyagatare,41,Female,Micro-enterprise,0.22,Operating
+Nonprofit & Community Organizations,Religious organizations,Hybrid,Partnership,2025,0,0,267013,47,Musanze,49,Female,Micro-enterprise,-0.17,Operating
+Energy & Utilities,Water supply & waste management,Hybrid,Sole Proprietorship,2021,4,4,4652102,15,Huye,20,Male,SME,0.16,Operating
+Financial & Insurance Services,"Insurance (life, health, property, vehicle)",Service-based,Partnership,2017,8,8,3009407,41,Musanze,58,Female,SME,0.4,Operating
+Education & Training,Vocational & technical training (TVET),Service-based,Cooperative,2004,21,21,3237556,9,Rubavu,50,Male,SME,0.34,Operating
+Construction & Real Estate,"Architecture, engineering & technical services",Hybrid,Limited Company,2017,8,8,10830605,40,Nyagatare,20,Female,Micro-enterprise,-0.18,Operating
+Public Administration & Defense,Security & defense institutions,Service-based,Cooperative,2023,2,2,4121400,27,Rusizi,50,Female,Micro-enterprise,0.16,Operating
+Health & Social Work,Health insurance providers,Service-based,Cooperative,2020,5,5,3248395,11,Rusizi,35,Male,SME,-0.03,Operating
+Mining & Quarrying,Gold,Service-based,Cooperative,2017,8,8,17037382,42,Rubavu,25,Male,Startup,0.33,Operating
+Information & Communication Technology (ICT),"Telecommunications (MTN, Airtel, broadband providers)",Service-based,Sole Proprietorship,2023,2,2,3159677,30,Nyagatare,42,Male,Startup,0.29,Closed
+Mining & Quarrying,"Quarrying (stone, sand, gravel)",Service-based,Limited Company,2023,2,2,10900653,22,Rusizi,32,Male,Micro-enterprise,0.09,Operating
+Transport & Logistics,"Aviation (RwandAir, airport services)",Product-based,Sole Proprietorship,2024,1,1,7706935,16,Rubavu,61,Female,Startup,-0.06,Closed
+Transport & Logistics,"Logistics, warehousing & courier services",Product-based,Partnership,2003,22,22,4804420,10,Rubavu,55,Male,SME,-0.18,Closed
+Health & Social Work,NGOs & community health services,Service-based,Partnership,2022,3,3,478456,32,Rwamagana,33,Male,Startup,0.13,Closed
+Financial & Insurance Services,"Insurance (life, health, property, vehicle)",Product-based,Cooperative,2023,2,2,3680231,17,Nyagatare,53,Male,SME,-0.02,Operating
+Information & Communication Technology (ICT),"Software development, IT services & startups",Service-based,Sole Proprietorship,2008,17,17,5269098,21,Rubavu,26,Male,Startup,0.37,Operating
+Financial & Insurance Services,Banking (commercial & microfinance),Product-based,Partnership,2012,13,13,3995289,11,Huye,27,Male,Startup,-0.05,Operating
+Nonprofit & Community Organizations,NGOs & cooperatives,Hybrid,Cooperative,2018,7,7,2924266,8,Rusizi,23,Female,SME,0.05,Operating
+Construction & Real Estate,Real estate development & property management,Service-based,Cooperative,2021,4,4,17270240,15,Rubavu,19,Male,Startup,0.25,Operating
+Health & Social Work,"Hospitals, clinics, pharmacies",Service-based,Cooperative,2018,7,7,4776740,44,Musanze,42,Female,SME,0.36,Operating
+Mining & Quarrying,"Tin, tungsten, tantalum (3Ts)",Product-based,Sole Proprietorship,2015,10,0,4232713,45,Huye,47,Male,Startup,0.49,Operating
+Health & Social Work,"Hospitals, clinics, pharmacies",Product-based,Cooperative,2016,9,9,6866846,21,Rubavu,48,Female,Startup,0.23,Operating
+Mining & Quarrying,"Tin, tungsten, tantalum (3Ts)",Product-based,Cooperative,2005,20,20,14930231,28,Rubavu,53,Female,Micro-enterprise,0.18,Operating
+Hospitality & Tourism,Travel agencies & tour operators,Product-based,Partnership,2013,12,12,1988576,9,Rusizi,53,Male,SME,0.29,Closed
+Energy & Utilities,Renewable energy technologies,Hybrid,Cooperative,2004,21,21,4734537,10,Musanze,56,Male,Startup,0.08,Closed
+Professional & Business Services,"Legal, auditing & accounting firms",Product-based,Limited Company,2019,6,6,5988701,46,Nyagatare,24,Female,Startup,-0.07,Operating
+Hospitality & Tourism,Travel agencies & tour operators,Hybrid,Cooperative,2021,4,4,6674430,8,Nyagatare,49,Female,Startup,0.43,Operating
+Construction & Real Estate,Road construction & maintenance,Service-based,Partnership,2021,4,4,10877965,25,Huye,56,Female,Startup,0.46,Operating
+Public Administration & Defense,Security & defense institutions,Product-based,Cooperative,2004,21,21,2066956,18,Nyagatare,54,Male,SME,0.48,Operating
+"Agriculture, Forestry & Fishing","Crop farming (coffee, tea, maize, rice, beans, vegetables, fruits)",Hybrid,Limited Company,2005,20,20,4270833,27,Rusizi,40,Male,SME,0.23,Operating
+Health & Social Work,NGOs & community health services,Product-based,Cooperative,2004,21,21,1503192,49,Musanze,42,Male,SME,0.3,Operating
+Nonprofit & Community Organizations,Charities & associations,Product-based,Limited Company,2015,10,10,934464,16,Rusizi,24,Male,Micro-enterprise,-0.13,Operating
+Education & Training,Universities & research centers,Hybrid,Sole Proprietorship,2003,22,22,2848795,11,Musanze,40,Female,Startup,0,Operating
+Information & Communication Technology (ICT),Data centers & cloud services,Service-based,Partnership,2018,7,7,4237189,26,Kigali,20,Male,Startup,-0.12,Closed
+Education & Training,EdTech platforms,Hybrid,Cooperative,2009,16,16,3022079,45,Huye,37,Male,Startup,0.28,Operating
+"Agriculture, Forestry & Fishing","Livestock farming (cattle, goats, poultry, pigs, rabbits, fish)",Service-based,Limited Company,2006,19,19,408450,11,Rubavu,46,Female,Micro-enterprise,-0.03,Operating
+Transport & Logistics,"Logistics, warehousing & courier services",Service-based,Sole Proprietorship,2022,3,3,7569896,6,Musanze,40,Female,Micro-enterprise,-0.02,Operating
+Wholesale & Retail Trade,Motor vehicle & motorcycle trade,Hybrid,Partnership,2014,11,11,2738226,33,Rubavu,29,Female,SME,-0.01,Closed
+Education & Training,Universities & research centers,Service-based,Limited Company,2006,19,19,3254803,39,Rwamagana,44,Male,SME,0.23,Closed
+"Arts, Entertainment & Recreation",Sports clubs & fitness centers,Hybrid,Sole Proprietorship,2005,20,20,1755442,44,Kigali,54,Male,Micro-enterprise,0.07,Closed
+Nonprofit & Community Organizations,Charities & associations,Hybrid,Limited Company,2004,21,21,2214893,47,Nyagatare,39,Male,Micro-enterprise,-0.18,Operating
+Transport & Logistics,"Road transport (bus, taxi, moto, trucks)",Service-based,Sole Proprietorship,2005,20,20,2976815,43,Rwamagana,36,Female,SME,0.44,Operating
+Financial & Insurance Services,Savings & credit cooperatives (SACCOs),Service-based,Partnership,2007,18,18,1860762,11,Rwamagana,49,Female,Startup,0.35,Operating
+Wholesale & Retail Trade,E-commerce & distribution,Hybrid,Cooperative,2005,20,20,3363552,10,Rubavu,63,Male,Startup,0.43,Closed
+Nonprofit & Community Organizations,Religious organizations,Product-based,Sole Proprietorship,2016,9,9,5027257,49,Musanze,39,Female,Micro-enterprise,0.02,Operating
+"Agriculture, Forestry & Fishing",Fishing & aquaculture,Hybrid,Sole Proprietorship,2011,14,14,1359066,3,Rwamagana,57,Female,Startup,0.4,Operating
+"Arts, Entertainment & Recreation",Sports clubs & fitness centers,Hybrid,Limited Company,2022,3,3,1244772,38,Musanze,46,Male,Startup,0.21,Operating
+Transport & Logistics,"Road transport (bus, taxi, moto, trucks)",Hybrid,Limited Company,2024,1,1,1008606,7,Rubavu,35,Male,Micro-enterprise,0.38,Operating
+Financial & Insurance Services,Banking (commercial & microfinance),Service-based,Sole Proprietorship,2004,21,21,7663858,2,Nyagatare,48,Male,Micro-enterprise,0.17,Operating
+Health & Social Work,NGOs & community health services,Service-based,Limited Company,2014,11,11,9417021,33,Huye,39,Male,SME,0.07,Operating
+Professional & Business Services,"Advertising, media & marketing",Product-based,Partnership,2016,9,9,6488404,31,Huye,47,Female,Micro-enterprise,0.44,Operating
+Information & Communication Technology (ICT),"Software development, IT services & startups",Hybrid,Sole Proprietorship,2005,20,20,9891025,30,Rubavu,42,Female,SME,-0.15,Operating
+"Arts, Entertainment & Recreation",Sports clubs & fitness centers,Product-based,Sole Proprietorship,2014,11,11,7169813,24,Musanze,25,Female,Startup,-0.13,Closed
+Wholesale & Retail Trade,E-commerce & distribution,Hybrid,Partnership,2001,24,24,448427,31,Rwamagana,38,Male,SME,0.1,Operating
+Education & Training,EdTech platforms,Service-based,Limited Company,2023,2,0,1479832,26,Rusizi,46,Female,Micro-enterprise,-0.01,Operating
+Public Administration & Defense,Government services,Product-based,Partnership,2007,18,18,3308076,49,Nyagatare,56,Male,Startup,-0.01,Operating
+Nonprofit & Community Organizations,NGOs & cooperatives,Service-based,Limited Company,2007,18,18,6297927,29,Rwamagana,22,Female,Micro-enterprise,-0.12,Operating
+Manufacturing,Paper & printing,Hybrid,Cooperative,2006,19,19,7529816,21,Rwamagana,55,Male,SME,-0.02,Operating
+Health & Social Work,Health insurance providers,Product-based,Limited Company,2015,10,10,1123004,46,Huye,29,Male,Micro-enterprise,0.23,Operating
+Education & Training,EdTech platforms,Product-based,Cooperative,2010,15,15,1052339,33,Huye,62,Female,Startup,0.39,Operating
+Professional & Business Services,Security services,Service-based,Limited Company,2000,25,25,8528361,12,Rwamagana,45,Male,SME,0.39,Operating
+Construction & Real Estate,Road construction & maintenance,Hybrid,Cooperative,2001,24,24,3447958,46,Rwamagana,43,Male,Startup,-0.15,Operating
+Nonprofit & Community Organizations,Charities & associations,Product-based,Partnership,2025,0,0,9205911,48,Nyagatare,37,Female,Startup,0.37,Closed
+"Agriculture, Forestry & Fishing","Livestock farming (cattle, goats, poultry, pigs, rabbits, fish)",Hybrid,Limited Company,2008,17,17,2398653,44,Kigali,37,Female,Micro-enterprise,0.39,Closed
+Information & Communication Technology (ICT),Data centers & cloud services,Product-based,Cooperative,2000,25,25,2917324,45,Huye,20,Female,Micro-enterprise,0.27,Operating
+Education & Training,Universities & research centers,Product-based,Cooperative,2019,6,6,2907179,16,Rwamagana,26,Female,Micro-enterprise,-0.08,Operating
+Public Administration & Defense,Government services,Product-based,Limited Company,2023,2,2,2489099,36,Rusizi,38,Female,SME,0.48,Operating
+Professional & Business Services,Management consulting & advisory,Product-based,Sole Proprietorship,2000,25,25,8046574,49,Rwamagana,53,Male,Micro-enterprise,0.49,Operating
+Wholesale & Retail Trade,E-commerce & distribution,Service-based,Cooperative,2022,3,3,4150130,39,Rubavu,28,Male,Micro-enterprise,0.16,Operating
+Energy & Utilities,Water supply & waste management,Product-based,Partnership,2006,19,19,10680850,34,Rwamagana,45,Male,Micro-enterprise,0.4,Closed
+"Arts, Entertainment & Recreation",Sports clubs & fitness centers,Service-based,Partnership,2017,8,8,3695494,24,Rusizi,33,Male,SME,0.43,Operating
+Manufacturing,Pharmaceutical & medical products,Hybrid,Cooperative,2024,1,1,13063370,11,Kigali,61,Female,Startup,-0.17,Operating
+Wholesale & Retail Trade,"General trade (shops, supermarkets, open markets)",Product-based,Sole Proprietorship,2018,7,7,237790,11,Rubavu,19,Male,Startup,-0.16,Closed
+"Arts, Entertainment & Recreation",Gaming & leisure activities,Product-based,Limited Company,2018,7,7,2439567,30,Rwamagana,64,Male,Startup,0.19,Operating
+Financial & Insurance Services,Savings & credit cooperatives (SACCOs),Product-based,Cooperative,2008,17,17,4466086,3,Nyagatare,39,Female,Micro-enterprise,0.3,Operating
+Hospitality & Tourism,Travel agencies & tour operators,Product-based,Cooperative,2008,17,17,3683841,11,Rusizi,47,Male,Micro-enterprise,0.49,Operating
+Nonprofit & Community Organizations,NGOs & cooperatives,Product-based,Partnership,2011,14,14,2722869,38,Rwamagana,63,Female,Micro-enterprise,-0.04,Operating
+Hospitality & Tourism,"Hotels, lodges, restaurants, cafés",Service-based,Sole Proprietorship,2021,4,4,9099648,32,Huye,19,Male,Micro-enterprise,0.16,Closed
+Information & Communication Technology (ICT),"FinTech (mobile money, digital banking solutions)",Service-based,Limited Company,2004,21,21,5867711,25,Musanze,46,Female,Micro-enterprise,0.31,Operating
+Education & Training,Universities & research centers,Hybrid,Limited Company,2008,17,17,3424473,28,Huye,24,Female,Startup,0.15,Operating
+Nonprofit & Community Organizations,NGOs & cooperatives,Hybrid,Cooperative,2003,22,22,8535785,9,Rwamagana,38,Male,SME,-0.18,Operating
+Energy & Utilities,Water supply & waste management,Hybrid,Cooperative,2002,23,23,14510714,22,Rusizi,57,Female,Startup,0.16,Operating
+Transport & Logistics,"Aviation (RwandAir, airport services)",Product-based,Cooperative,2012,13,13,6341889,5,Rwamagana,61,Male,SME,-0.16,Operating
+Mining & Quarrying,Gold,Service-based,Partnership,2021,4,4,10940129,13,Huye,48,Male,SME,0.14,Operating
+Construction & Real Estate,Road construction & maintenance,Service-based,Partnership,2015,10,10,12087023,45,Huye,36,Female,Startup,-0.09,Operating
+Hospitality & Tourism,"Hotels, lodges, restaurants, cafés",Hybrid,Sole Proprietorship,2014,11,11,8384987,32,Nyagatare,38,Female,Startup,0.45,Operating
+Mining & Quarrying,"Quarrying (stone, sand, gravel)",Service-based,Limited Company,2008,17,0,13958925,16,Rusizi,64,Male,Micro-enterprise,0.04,Operating
+Wholesale & Retail Trade,E-commerce & distribution,Product-based,Partnership,2011,14,14,3712868,8,Nyagatare,61,Male,Micro-enterprise,0.43,Operating
+Construction & Real Estate,"Architecture, engineering & technical services",Product-based,Sole Proprietorship,2010,15,15,16933770,26,Rusizi,22,Male,SME,0.26,Operating
+Professional & Business Services,"Advertising, media & marketing",Service-based,Limited Company,2018,7,7,6708019,7,Rwamagana,58,Male,Startup,-0.13,Operating
+Mining & Quarrying,"Quarrying (stone, sand, gravel)",Hybrid,Limited Company,2016,9,9,2617567,48,Rusizi,23,Male,Micro-enterprise,0.26,Operating
+Transport & Logistics,"Road transport (bus, taxi, moto, trucks)",Service-based,Sole Proprietorship,2025,0,0,7508180,16,Huye,49,Female,Micro-enterprise,0.2,Operating
+Construction & Real Estate,Building & civil engineering works,Product-based,Sole Proprietorship,2019,6,0,4747263,28,Nyagatare,20,Male,SME,-0.14,Operating
+Financial & Insurance Services,"Capital markets, investment funds",Hybrid,Cooperative,2022,3,3,1480647,26,Huye,37,Female,Micro-enterprise,-0.2,Operating
+Wholesale & Retail Trade,Motor vehicle & motorcycle trade,Service-based,Limited Company,2008,17,17,4222034,47,Nyagatare,63,Female,Startup,-0.16,Operating
+Health & Social Work,NGOs & community health services,Hybrid,Limited Company,2003,22,22,6915913,5,Musanze,39,Male,SME,0.16,Operating
+"Arts, Entertainment & Recreation",Media & film industry,Product-based,Sole Proprietorship,2023,2,2,2348402,28,Rwamagana,23,Female,Startup,0.37,Operating
+Mining & Quarrying,"Tin, tungsten, tantalum (3Ts)",Service-based,Limited Company,2022,3,3,9891837,30,Nyagatare,22,Female,Startup,-0.08,Operating
+Energy & Utilities,"Electricity (hydropower, solar, methane gas, peat, biomass)",Service-based,Cooperative,2007,18,18,16559733,2,Rubavu,23,Female,Micro-enterprise,-0.1,Operating
+Mining & Quarrying,"Tin, tungsten, tantalum (3Ts)",Hybrid,Cooperative,2007,18,18,3772191,38,Kigali,28,Male,Startup,-0.09,Operating
+Mining & Quarrying,"Tin, tungsten, tantalum (3Ts)",Hybrid,Cooperative,2012,13,13,2999576,15,Rwamagana,52,Female,Micro-enterprise,-0.2,Operating
+Health & Social Work,"Hospitals, clinics, pharmacies",Product-based,Cooperative,2018,7,7,7195918,28,Huye,22,Male,SME,0.45,Operating
+Mining & Quarrying,"Tin, tungsten, tantalum (3Ts)",Hybrid,Cooperative,2023,2,2,9335096,19,Rubavu,24,Male,Startup,0.43,Operating
+Wholesale & Retail Trade,"General trade (shops, supermarkets, open markets)",Product-based,Sole Proprietorship,2000,25,25,2837499,34,Huye,56,Male,Startup,-0.13,Operating
+Public Administration & Defense,Government services,Hybrid,Sole Proprietorship,2003,22,22,6408189,12,Nyagatare,47,Male,SME,0.41,Operating
+Education & Training,Vocational & technical training (TVET),Service-based,Partnership,2024,1,1,1509727,4,Nyagatare,61,Female,Startup,0.19,Operating
+Nonprofit & Community Organizations,Religious organizations,Hybrid,Sole Proprietorship,2023,2,2,272053,18,Nyagatare,55,Male,SME,0.19,Closed
+Mining & Quarrying,"Tin, tungsten, tantalum (3Ts)",Service-based,Partnership,2015,10,10,11747545,37,Rwamagana,45,Male,Micro-enterprise,0.38,Operating
+Financial & Insurance Services,"Capital markets, investment funds",Hybrid,Partnership,2022,3,3,808659,34,Huye,27,Male,Startup,-0.07,Operating
+Wholesale & Retail Trade,Motor vehicle & motorcycle trade,Hybrid,Limited Company,2004,21,21,4038130,2,Nyagatare,25,Male,SME,0.05,Operating
+Education & Training,"Primary, secondary & tertiary schools",Product-based,Cooperative,2022,3,3,567706,46,Kigali,35,Female,Micro-enterprise,0.21,Operating
+Public Administration & Defense,Government services,Service-based,Sole Proprietorship,2021,4,4,9588460,6,Musanze,24,Female,Startup,0.38,Operating
+Energy & Utilities,"Electricity (hydropower, solar, methane gas, peat, biomass)",Hybrid,Partnership,2020,5,5,5567748,1,Kigali,32,Female,Startup,0.26,Closed
+Public Administration & Defense,Government services,Product-based,Limited Company,2008,17,17,8555092,20,Kigali,41,Male,Micro-enterprise,0.17,Operating
+Professional & Business Services,"Advertising, media & marketing",Service-based,Sole Proprietorship,2014,11,0,1606214,11,Rusizi,52,Male,Micro-enterprise,-0.04,Closed
+Hospitality & Tourism,Cultural & eco-tourism services,Service-based,Cooperative,2023,2,2,1159529,8,Kigali,52,Male,Startup,0.27,Operating
+Nonprofit & Community Organizations,NGOs & cooperatives,Hybrid,Sole Proprietorship,2009,16,16,5525005,11,Musanze,32,Female,Startup,-0.13,Operating
+Nonprofit & Community Organizations,NGOs & cooperatives,Service-based,Limited Company,2025,0,0,873062,16,Rubavu,50,Female,Startup,0.4,Operating
+Professional & Business Services,"Advertising, media & marketing",Product-based,Sole Proprietorship,2024,1,1,8140656,19,Nyagatare,49,Male,Startup,0.41,Operating
+Manufacturing,Paper & printing,Product-based,Partnership,2014,11,11,18234207,5,Rusizi,43,Female,Startup,0.09,Closed
+Transport & Logistics,"Road transport (bus, taxi, moto, trucks)",Hybrid,Limited Company,2002,23,23,8123210,5,Rwamagana,63,Male,Micro-enterprise,0.21,Operating
+Nonprofit & Community Organizations,Religious organizations,Product-based,Cooperative,2014,11,11,9761573,2,Nyagatare,18,Male,SME,-0.03,Closed
+Transport & Logistics,Rail (future projects),Hybrid,Sole Proprietorship,2014,11,11,6866783,38,Rwamagana,53,Female,Micro-enterprise,-0.04,Operating
+Health & Social Work,"Hospitals, clinics, pharmacies",Hybrid,Sole Proprietorship,2001,24,24,8888321,17,Rwamagana,62,Female,Micro-enterprise,-0.16,Operating
+Transport & Logistics,Rail (future projects),Hybrid,Cooperative,2018,7,7,9490633,41,Musanze,42,Female,Micro-enterprise,0.44,Operating
+Mining & Quarrying,"Quarrying (stone, sand, gravel)",Service-based,Limited Company,2010,15,15,14294052,13,Rwamagana,37,Male,Startup,0.29,Operating
+Construction & Real Estate,Building & civil engineering works,Product-based,Limited Company,2000,25,25,7499614,44,Huye,61,Female,Micro-enterprise,-0.01,Operating
+Manufacturing,"Chemicals, plastics, rubber, paints",Product-based,Sole Proprietorship,2013,12,12,7574088,18,Rubavu,20,Male,Micro-enterprise,0.3,Operating
+Manufacturing,"Cement, ceramics, building materials",Hybrid,Sole Proprietorship,2011,14,14,6404465,17,Huye,47,Female,Micro-enterprise,-0.16,Operating
+Mining & Quarrying,"Tin, tungsten, tantalum (3Ts)",Hybrid,Sole Proprietorship,2020,5,5,12653768,22,Kigali,32,Female,SME,0.41,Operating
+"Agriculture, Forestry & Fishing","Livestock farming (cattle, goats, poultry, pigs, rabbits, fish)",Service-based,Sole Proprietorship,2021,4,4,1826041,3,Nyagatare,40,Female,Micro-enterprise,-0.06,Operating
+Public Administration & Defense,Security & defense institutions,Service-based,Limited Company,2013,12,12,5202284,40,Rubavu,59,Female,SME,0.47,Operating
+"Agriculture, Forestry & Fishing",Fishing & aquaculture,Service-based,Limited Company,2011,14,14,120756,31,Rubavu,28,Female,Micro-enterprise,0.43,Operating
+Wholesale & Retail Trade,E-commerce & distribution,Service-based,Limited Company,2023,2,2,1527264,38,Huye,53,Female,Micro-enterprise,-0.2,Operating
+Construction & Real Estate,Real estate development & property management,Product-based,Cooperative,2005,20,20,12234650,17,Nyagatare,50,Female,Micro-enterprise,0.35,Operating
+Manufacturing,"Textile, apparel & leather goods",Product-based,Partnership,2022,3,3,17965040,25,Rwamagana,53,Female,SME,0.24,Operating
+Wholesale & Retail Trade,E-commerce & distribution,Service-based,Cooperative,2000,25,0,2983795,14,Huye,32,Male,SME,0.34,Operating
+Mining & Quarrying,"Tin, tungsten, tantalum (3Ts)",Service-based,Cooperative,2023,2,0,8461335,12,Rwamagana,25,Male,Micro-enterprise,0.48,Operating
+"Arts, Entertainment & Recreation","Music, events & performing arts",Hybrid,Cooperative,2009,16,16,9092738,5,Rwamagana,62,Male,Micro-enterprise,0.41,Operating
+Manufacturing,"Cement, ceramics, building materials",Hybrid,Partnership,2013,12,12,7295792,42,Rubavu,53,Female,SME,-0.18,Operating
+Public Administration & Defense,Security & defense institutions,Hybrid,Limited Company,2021,4,4,2393187,8,Rubavu,25,Male,SME,0,Operating
+Wholesale & Retail Trade,"General trade (shops, supermarkets, open markets)",Product-based,Sole Proprietorship,2004,21,0,4195372,22,Rwamagana,23,Male,Micro-enterprise,0.33,Operating
+Nonprofit & Community Organizations,NGOs & cooperatives,Hybrid,Partnership,2017,8,0,8119212,22,Nyagatare,43,Male,SME,0.23,Operating
+Health & Social Work,"Hospitals, clinics, pharmacies",Hybrid,Cooperative,2007,18,18,7725032,18,Musanze,18,Male,SME,0.24,Operating
+Information & Communication Technology (ICT),"Software development, IT services & startups",Hybrid,Limited Company,2017,8,8,3934789,49,Huye,56,Female,SME,0.14,Closed
+Construction & Real Estate,Road construction & maintenance,Service-based,Partnership,2013,12,12,2480529,10,Kigali,46,Male,Startup,0.38,Operating
+Health & Social Work,NGOs & community health services,Service-based,Limited Company,2019,6,6,7842736,42,Kigali,25,Male,Micro-enterprise,-0.2,Operating
+Mining & Quarrying,"Tin, tungsten, tantalum (3Ts)",Service-based,Cooperative,2025,0,0,14717079,31,Musanze,31,Male,Micro-enterprise,0.25,Operating
+Information & Communication Technology (ICT),"Telecommunications (MTN, Airtel, broadband providers)",Service-based,Limited Company,2000,25,25,2957102,11,Rubavu,28,Male,SME,0.1,Operating
+Construction & Real Estate,Building & civil engineering works,Product-based,Cooperative,2024,1,1,16032098,31,Rwamagana,20,Female,SME,0.44,Closed
+Mining & Quarrying,"Quarrying (stone, sand, gravel)",Service-based,Partnership,2009,16,16,11758161,5,Rubavu,28,Male,Startup,0.11,Operating
+Construction & Real Estate,Road construction & maintenance,Product-based,Partnership,2003,22,22,19835889,15,Rubavu,49,Male,Micro-enterprise,0.34,Operating
+Public Administration & Defense,Security & defense institutions,Service-based,Limited Company,2004,21,21,1482447,38,Rusizi,47,Female,SME,0.37,Operating
+Hospitality & Tourism,Cultural & eco-tourism services,Service-based,Sole Proprietorship,2014,11,11,7082364,27,Kigali,37,Male,Micro-enterprise,-0.07,Operating
+Public Administration & Defense,Government services,Product-based,Cooperative,2000,25,25,1113194,34,Rwamagana,54,Male,Micro-enterprise,0.05,Closed
+Construction & Real Estate,Real estate development & property management,Hybrid,Sole Proprietorship,2014,11,11,6433327,3,Rubavu,59,Male,Startup,0.26,Operating
+Construction & Real Estate,"Architecture, engineering & technical services",Service-based,Cooperative,2003,22,22,1488853,2,Rubavu,35,Male,SME,0.22,Operating
+Construction & Real Estate,Road construction & maintenance,Service-based,Cooperative,2002,23,23,12843809,21,Kigali,51,Female,Micro-enterprise,0.32,Operating
+"Arts, Entertainment & Recreation",Sports clubs & fitness centers,Service-based,Sole Proprietorship,2017,8,8,5829943,43,Kigali,29,Male,Startup,-0.13,Closed
+Information & Communication Technology (ICT),"Software development, IT services & startups",Product-based,Partnership,2025,0,0,3957604,40,Kigali,45,Male,SME,0,Operating
+Hospitality & Tourism,Travel agencies & tour operators,Service-based,Sole Proprietorship,2003,22,22,4684706,34,Rwamagana,36,Male,SME,-0.15,Closed
+Mining & Quarrying,"Tin, tungsten, tantalum (3Ts)",Hybrid,Cooperative,2023,2,2,617724,20,Rwamagana,58,Female,Micro-enterprise,0.02,Closed
+Construction & Real Estate,Real estate development & property management,Hybrid,Limited Company,2005,20,20,2937421,35,Rusizi,64,Male,SME,0.2,Operating
+Financial & Insurance Services,"Capital markets, investment funds",Service-based,Limited Company,2016,9,9,5613096,9,Huye,35,Male,SME,0.17,Operating
+Professional & Business Services,Security services,Product-based,Limited Company,2005,20,20,6844710,12,Rusizi,49,Male,Startup,-0.14,Closed
+Nonprofit & Community Organizations,Religious organizations,Service-based,Limited Company,2019,6,6,3965338,2,Huye,29,Female,Micro-enterprise,0.4,Operating
+Education & Training,Vocational & technical training (TVET),Service-based,Sole Proprietorship,2007,18,18,1455322,2,Rubavu,42,Male,Micro-enterprise,0.19,Operating
+Financial & Insurance Services,Banking (commercial & microfinance),Product-based,Limited Company,2013,12,12,7137645,20,Nyagatare,49,Female,Micro-enterprise,-0.16,Operating
+Education & Training,Vocational & technical training (TVET),Hybrid,Sole Proprietorship,2001,24,24,586535,9,Huye,63,Female,Startup,-0.06,Operating
+Health & Social Work,"Hospitals, clinics, pharmacies",Hybrid,Limited Company,2001,24,0,6251701,19,Huye,19,Female,Micro-enterprise,-0.12,Operating
+Transport & Logistics,"Road transport (bus, taxi, moto, trucks)",Service-based,Partnership,2014,11,11,4546300,13,Rubavu,20,Female,Micro-enterprise,0.05,Operating
+Public Administration & Defense,Government services,Hybrid,Cooperative,2014,11,11,2654316,48,Kigali,64,Male,SME,0.5,Closed
+"Arts, Entertainment & Recreation",Gaming & leisure activities,Product-based,Sole Proprietorship,2005,20,20,6249956,30,Huye,36,Female,SME,0.32,Operating
+Transport & Logistics,"Aviation (RwandAir, airport services)",Hybrid,Partnership,2011,14,14,6030868,16,Kigali,33,Male,Startup,0.06,Operating
+Energy & Utilities,"Electricity (hydropower, solar, methane gas, peat, biomass)",Hybrid,Partnership,2001,24,24,15265429,37,Musanze,45,Male,Startup,0.43,Operating
+Mining & Quarrying,"Quarrying (stone, sand, gravel)",Hybrid,Limited Company,2020,5,5,7798993,11,Rusizi,28,Female,Micro-enterprise,0.24,Operating
+"Arts, Entertainment & Recreation",Gaming & leisure activities,Product-based,Partnership,2008,17,17,2873508,4,Huye,39,Female,SME,-0.1,Closed
+Financial & Insurance Services,Banking (commercial & microfinance),Product-based,Limited Company,2008,17,17,3605052,12,Rwamagana,56,Female,Startup,0.33,Operating
+Hospitality & Tourism,Cultural & eco-tourism services,Service-based,Partnership,2025,0,0,6765583,36,Nyagatare,18,Male,Micro-enterprise,-0.09,Operating
