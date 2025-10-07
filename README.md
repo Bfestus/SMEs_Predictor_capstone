@@ -1,4 +1,5 @@
 # SME Success Predictor - Rwanda 🇷🇼
+## link to video: https://youtu.be/pAXmyFnXsj0 
 
 A comprehensive machine learning solution for predicting Small and Medium Enterprise (SME) business success in Rwanda, featuring data analysis, multiple ML algorithms, and a production-ready API with Swagger UI.
 
