@@ -1,6 +1,6 @@
 # SME Success Predictor - Rwanda 🇷🇼
 ## link to video: https://youtu.be/pAXmyFnXsj0 
-
+## link to github: https://github.com/Bfestus/SMEs_Predictor_capstone.git
 A comprehensive machine learning solution for predicting Small and Medium Enterprise (SME) business success in Rwanda, featuring data analysis, multiple ML algorithms, and a production-ready API with Swagger UI.
 
 ## 📋 Table of Contents
